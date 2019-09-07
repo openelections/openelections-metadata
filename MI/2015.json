@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://miboecfr.nictusa.com/election/results/DATA/2015SP1_MI_CENR_BY_COUNTY.xls"
+            ],
+            "end_date": "2015-11-03",
+            "gov": false,
+            "house": false,
+            "id": 1787,
+            "organization": {
+                "city": "Lansing",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/midir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 19,
+                "name": "Michigan Secretary of State",
+                "resource_uri": "/api/v1/organization/19/",
+                "slug": "michigan-secretary-state",
+                "state": "MI",
+                "street": "Michigan Department of State",
+                "url": "http://www.michigan.gov/sos"
+            },
+            "portal_link": "http://miboecfr.nictusa.com/election/results/15SP1/",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1787/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2015-11-03",
+            "state": {
+                "name": "Michigan",
+                "postal": "MI",
+                "resource_uri": "/api/v1/state/MI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

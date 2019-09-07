@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.iowa.gov/elections/pdf/GenOffResults.pdf",
+            "direct_links": [
+                "http://sos.iowa.gov/elections/results/2006genstatewidepct.xlsx",
+                "http://sos.iowa.gov/elections/pdf/results/offResultsGovLtGov.pdf",
+                "http://sos.iowa.gov/elections/pdf/GenOffResults.pdf",
+                "http://sos.iowa.gov/elections/pdf/winnerlistgen06.pdf"
+            ],
+            "end_date": "2006-11-07",
+            "gov": true,
+            "house": true,
+            "id": 199,
+            "organization": {
+                "city": "Des Moines",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 13,
+                "name": "Iowa Secretary of State",
+                "resource_uri": "/api/v1/organization/13/",
+                "slug": "iowa-secretary-state",
+                "state": "IA",
+                "street": "First Floor, Lucas Building, 321 E. 12th St.",
+                "url": "http://sos.iowa.gov/elections/results/index.html"
+            },
+            "portal_link": "http://sos.iowa.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/199/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "Iowa",
+                "postal": "IA",
+                "resource_uri": "/api/v1/state/IA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hing, Geoffrey"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.iowa.gov/elections/pdf/2006/primary/2006PrimaryElectionOfficialResults.pdf",
+            "direct_links": [
+                "http://sos.iowa.gov/elections/pdf/2006/primary/2006PrimaryElectionOfficialResults.pdf",
+                "http://sos.iowa.gov/elections/pdf/2006/primary/2006PrimaryElectionWinnerList.pdf"
+            ],
+            "end_date": "2006-06-06",
+            "gov": true,
+            "house": true,
+            "id": 200,
+            "organization": {
+                "city": "Des Moines",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 13,
+                "name": "Iowa Secretary of State",
+                "resource_uri": "/api/v1/organization/13/",
+                "slug": "iowa-secretary-state",
+                "state": "IA",
+                "street": "First Floor, Lucas Building, 321 E. 12th St.",
+                "url": "http://sos.iowa.gov/elections/results/index.html"
+            },
+            "portal_link": "http://sos.iowa.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/200/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2006-06-06",
+            "state": {
+                "name": "Iowa",
+                "postal": "IA",
+                "resource_uri": "/api/v1/state/IA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hing, Geoffrey"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://dos.myflorida.com/media/700501/precinctlevelelectionresults2018gen.zip"
+            ],
+            "end_date": "2018-11-06",
+            "gov": true,
+            "house": true,
+            "id": 1885,
+            "organization": {
+                "city": "Tallahassee",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/fldir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 3,
+                "name": "Florida Division of Elections",
+                "resource_uri": "/api/v1/organization/3/",
+                "slug": "florida-division-elections",
+                "state": "FL",
+                "street": "500 South Bronough Street",
+                "url": "http://election.dos.state.fl.us/index.shtml"
+            },
+            "portal_link": "https://results.elections.myflorida.com/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1885/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-11-06",
+            "state": {
+                "name": "Florida",
+                "postal": "FL",
+                "resource_uri": "/api/v1/state/FL/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://dos.myflorida.com/media/700241/precinctlevelelectionresults2018pri.zip"
+            ],
+            "end_date": "2018-08-28",
+            "gov": true,
+            "house": true,
+            "id": 1884,
+            "organization": {
+                "city": "Tallahassee",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/fldir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 3,
+                "name": "Florida Division of Elections",
+                "resource_uri": "/api/v1/organization/3/",
+                "slug": "florida-division-elections",
+                "state": "FL",
+                "street": "500 South Bronough Street",
+                "url": "http://election.dos.state.fl.us/index.shtml"
+            },
+            "portal_link": "https://results.elections.myflorida.com/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1884/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-08-28",
+            "state": {
+                "name": "Florida",
+                "postal": "FL",
+                "resource_uri": "/api/v1/state/FL/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2018_11_06/results_pct_20181106.zip"
+            ],
+            "end_date": "2018-11-06",
+            "gov": false,
+            "house": true,
+            "id": 1888,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "https://er.ncsbe.gov/?election_dt=11/06/2018&county_id=0&office=FED&contest=0",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1888/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2018-11-06",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2018_05_08/results_pct_20180508.zip"
+            ],
+            "end_date": "2018-05-08",
+            "gov": false,
+            "house": true,
+            "id": 1867,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "https://www.ncsbe.gov/Election-Results",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1867/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2018-05-08",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

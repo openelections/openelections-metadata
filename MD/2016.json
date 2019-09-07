@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.state.md.us/elections/2016/election_data/All_By_Precinct_2016_General.csv"
+            ],
+            "end_date": "2016-11-08",
+            "gov": false,
+            "house": true,
+            "id": 1771,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "http://www.elections.state.md.us/elections/2016/election_data/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1771/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "baked-raw",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.state.md.us/elections/2016/election_data/All_By_Precinct_Democratic_2016_Primary.csv",
+                "http://www.elections.state.md.us/elections/2016/election_data/All_By_Precinct_Republican_2016_Primary.csv",
+                "http://www.elections.state.md.us/elections/2016/election_data/All_By_Precinct_NonPartisan_2016_Primary.csv"
+            ],
+            "end_date": "2016-04-26",
+            "gov": false,
+            "house": true,
+            "id": 1770,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "http://www.elections.state.md.us/elections/2016/election_data/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1770/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-04-26",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "baked-raw",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

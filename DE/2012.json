@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elections.delaware.gov/archive/elect12/elect12_general/data/stwres.txt",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect12/elect12_general/data/stwres.txt"
+            ],
+            "end_date": "2012-11-06",
+            "gov": true,
+            "house": true,
+            "id": 80,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/80/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hill, Dan"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elections.delaware.gov/archive/elect12/elect12_Primary/data/stwres.txt",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect12/elect12_Primary/data/stwres.txt"
+            ],
+            "end_date": "2012-09-11",
+            "gov": true,
+            "house": true,
+            "id": 1158,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1158/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-09-11",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

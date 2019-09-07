@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://elect.ky.gov/results/2010-2019/Documents/2016%20General%20Election%20Results.pdf",
+                "http://results.enr.clarityelections.com/KY/64180/index.html"
+            ],
+            "end_date": "2016-11-08",
+            "gov": false,
+            "house": true,
+            "id": 1738,
+            "organization": {
+                "city": "Frankfort",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/kydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 22,
+                "name": "Kentucky State Board of Elections",
+                "resource_uri": "/api/v1/organization/22/",
+                "slug": "kentucky-state-board-elections",
+                "state": "KY",
+                "street": "140 Walnut Street",
+                "url": "http://elect.ky.gov/results/Pages/default.aspx"
+            },
+            "portal_link": "http://elect.ky.gov/results/2010-2019/Pages/2016primaryandgeneralelectionresults.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1738/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "Kentucky",
+                "postal": "KY",
+                "resource_uri": "/api/v1/state/KY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://elect.ky.gov/results/2010-2019/Documents/2016%20primary%20election%20results.pdf",
+                "http://results.enr.clarityelections.com/KY/61323/index.html"
+            ],
+            "end_date": "2016-05-17",
+            "gov": false,
+            "house": true,
+            "id": 1737,
+            "organization": {
+                "city": "Frankfort",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/kydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 22,
+                "name": "Kentucky State Board of Elections",
+                "resource_uri": "/api/v1/organization/22/",
+                "slug": "kentucky-state-board-elections",
+                "state": "KY",
+                "street": "140 Walnut Street",
+                "url": "http://elect.ky.gov/results/Pages/default.aspx"
+            },
+            "portal_link": "http://elect.ky.gov/results/2010-2019/Pages/2016primaryandgeneralelectionresults.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1737/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-05-17",
+            "state": {
+                "name": "Kentucky",
+                "postal": "KY",
+                "resource_uri": "/api/v1/state/KY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

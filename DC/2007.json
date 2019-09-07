@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": false,
+            "county_level_status": "Unavailable",
+            "direct_link": "",
+            "direct_links": [
+                "https://www.dcboee.org/popup.asp?url=/pdf_files/pn_126.pdf"
+            ],
+            "end_date": "2007-08-21",
+            "gov": false,
+            "house": false,
+            "id": 1474,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1474/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2007-08-21",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "https://www.dcboee.org/popup.asp?url=/pdf_files/nr_113.pdf"
+            ],
+            "end_date": "2007-05-01",
+            "gov": false,
+            "house": false,
+            "id": 1475,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1475/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2007-05-01",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

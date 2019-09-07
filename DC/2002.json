@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "https://www.dcboee.org/election_info/election_results/elec_2002/general_elec.asp",
+                "https://www.dcboee.org/election_info/election_results/elec_2002/htmldocs/candidate.asp"
+            ],
+            "end_date": "2002-11-05",
+            "gov": false,
+            "house": true,
+            "id": 1478,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1478/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "https://www.dcboee.org/election_info/election_results/elec_2002/Primary.asp"
+            ],
+            "end_date": "2002-09-10",
+            "gov": false,
+            "house": true,
+            "id": 1479,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1479/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-09-10",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.iowa.gov/elections/pdf/2008/OfficialCanvass2008General.pdf",
+            "direct_links": [
+                "http://sos.iowa.gov/elections/results/xls/2008/statewidegenpct.xlsx",
+                "http://sos.iowa.gov/elections/pdf/2008/OfficialCanvass2008General.pdf",
+                "http://sos.iowa.gov/elections/pdf/2008/WinnerList2008General.pdf",
+                "http://sos.iowa.gov/elections/results/precinctvotetotals2008.html"
+            ],
+            "end_date": "2008-11-04",
+            "gov": false,
+            "house": true,
+            "id": 197,
+            "organization": {
+                "city": "Des Moines",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 13,
+                "name": "Iowa Secretary of State",
+                "resource_uri": "/api/v1/organization/13/",
+                "slug": "iowa-secretary-state",
+                "state": "IA",
+                "street": "First Floor, Lucas Building, 321 E. 12th St.",
+                "url": "http://sos.iowa.gov/elections/results/index.html"
+            },
+            "portal_link": "http://sos.iowa.gov/elections/results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/197/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "Iowa",
+                "postal": "IA",
+                "resource_uri": "/api/v1/state/IA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.iowa.gov/elections/pdf/2008/OfficialResultsReport2008Primary.pdf",
+            "direct_links": [
+                "http://sos.iowa.gov/elections/pdf/2008/OfficialResultsReport2008Primary.pdf",
+                "http://sos.iowa.gov/elections/pdf/2008/WinnerList2008Primary.pdf"
+            ],
+            "end_date": "2008-06-03",
+            "gov": false,
+            "house": true,
+            "id": 198,
+            "organization": {
+                "city": "Des Moines",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 13,
+                "name": "Iowa Secretary of State",
+                "resource_uri": "/api/v1/organization/13/",
+                "slug": "iowa-secretary-state",
+                "state": "IA",
+                "street": "First Floor, Lucas Building, 321 E. 12th St.",
+                "url": "http://sos.iowa.gov/elections/results/index.html"
+            },
+            "portal_link": "http://sos.iowa.gov/elections/results/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/198/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-06-03",
+            "state": {
+                "name": "Iowa",
+                "postal": "IA",
+                "resource_uri": "/api/v1/state/IA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        }
+    ]
+}

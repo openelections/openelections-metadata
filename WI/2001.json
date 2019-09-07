@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://elections.wi.gov/sites/default/files/2001_SpringElection_SupremeCourt_WardbyWard.pdf",
+                "http://elections.wi.gov/sites/default/files/2001_SpringElection_PublicInstruction_WardbyWard.pdf",
+                "http://elections.wi.gov/sites/default/files/2001_SpringElection_CourtofAppeals_WardbyWard.pdf",
+                "http://elections.wi.gov/sites/default/files/2001_SpringElection_CircuitCourt_WardbyWard.pdf"
+            ],
+            "end_date": "2001-04-03",
+            "gov": false,
+            "house": false,
+            "id": 1843,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/widir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 17,
+                "name": "Wisconsin Elections Commission",
+                "resource_uri": "/api/v1/organization/17/",
+                "slug": "wi-gab",
+                "state": "WI",
+                "street": "",
+                "url": "http://elections.wi.gov/"
+            },
+            "portal_link": "http://elections.wi.gov/elections-voting/results/2001/spring-election",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1843/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2001-04-03",
+            "state": {
+                "name": "Wisconsin",
+                "postal": "WI",
+                "resource_uri": "/api/v1/state/WI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Davies, Nick"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://elections.wi.gov/sites/default/files/2001_SpringPrimary_S.CroixCircuit_WardbyWard.pdf",
+                "http://elections.wi.gov/sites/default/files/prim01_wbw_supt-pi.pdf"
+            ],
+            "end_date": "2001-02-20",
+            "gov": false,
+            "house": false,
+            "id": 1844,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/widir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 17,
+                "name": "Wisconsin Elections Commission",
+                "resource_uri": "/api/v1/organization/17/",
+                "slug": "wi-gab",
+                "state": "WI",
+                "street": "",
+                "url": "http://elections.wi.gov/"
+            },
+            "portal_link": "http://elections.wi.gov/elections-voting/results/2001/spring-primary",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "Nonpartisan",
+            "primary_type": "other",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1844/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2001-02-20",
+            "state": {
+                "name": "Wisconsin",
+                "postal": "WI",
+                "resource_uri": "/api/v1/state/WI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Davies, Nick"
+        }
+    ]
+}

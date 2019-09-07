@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://doe.dos.state.fl.us/elections/resultsarchive/ResultsExtract.Asp?ElectionDate=11/4/2014&OfficialResults=Y&DataMode=",
+                "http://fldoselectionfiles.elections.myflorida.com/enightfilespublic/20141104_PrecinctLevelResults2014GEN.zip"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1568,
+            "organization": {
+                "city": "Tallahassee",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/fldir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 3,
+                "name": "Florida Division of Elections",
+                "resource_uri": "/api/v1/organization/3/",
+                "slug": "florida-division-elections",
+                "state": "FL",
+                "street": "500 South Bronough Street",
+                "url": "http://election.dos.state.fl.us/index.shtml"
+            },
+            "portal_link": "http://election.dos.state.fl.us/elections/resultsarchive/Index.asp?ElectionDate=11/4/2014&DATAMODE=",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1568/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Florida",
+                "postal": "FL",
+                "resource_uri": "/api/v1/state/FL/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://doe.dos.state.fl.us/elections/resultsarchive/ResultsExtract.Asp?ElectionDate=8/26/2014&OfficialResults=Y&DataMode=",
+                "http://fldoselectionfiles.elections.myflorida.com/enightfilespublic/20140826_PrecinctLevelResults2014PRI.zip"
+            ],
+            "end_date": "2014-08-26",
+            "gov": true,
+            "house": true,
+            "id": 1567,
+            "organization": {
+                "city": "Tallahassee",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/fldir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 3,
+                "name": "Florida Division of Elections",
+                "resource_uri": "/api/v1/organization/3/",
+                "slug": "florida-division-elections",
+                "state": "FL",
+                "street": "500 South Bronough Street",
+                "url": "http://election.dos.state.fl.us/index.shtml"
+            },
+            "portal_link": "http://election.dos.state.fl.us/elections/resultsarchive/Index.asp?ElectionDate=8/26/2014&DATAMODE=",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1567/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2014-08-26",
+            "state": {
+                "name": "Florida",
+                "postal": "FL",
+                "resource_uri": "/api/v1/state/FL/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

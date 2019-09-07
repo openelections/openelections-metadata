@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://miboecfr.nicusa.com/cfr/presults/2004GEN.zip",
+            "direct_links": [
+                "http://miboecfr.nicusa.com/cfr/presults/2004GEN.zip"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 287,
+            "organization": {
+                "city": "Lansing",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/midir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 19,
+                "name": "Michigan Secretary of State",
+                "resource_uri": "/api/v1/organization/19/",
+                "slug": "michigan-secretary-state",
+                "state": "MI",
+                "street": "Michigan Department of State",
+                "url": "http://www.michigan.gov/sos"
+            },
+            "portal_link": "http://michigan.gov/sos/0,4670,7-127-1633_8722---,00.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/287/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Michigan",
+                "postal": "MI",
+                "resource_uri": "/api/v1/state/MI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Tonyan, David"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://miboecfr.nicusa.com/election/results/04PRI/04PRIall.html",
+            "direct_links": [
+                "http://miboecfr.nicusa.com/election/results/04PRI/"
+            ],
+            "end_date": "2004-08-03",
+            "gov": false,
+            "house": true,
+            "id": 288,
+            "organization": {
+                "city": "Lansing",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/midir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 19,
+                "name": "Michigan Secretary of State",
+                "resource_uri": "/api/v1/organization/19/",
+                "slug": "michigan-secretary-state",
+                "state": "MI",
+                "street": "Michigan Department of State",
+                "url": "http://www.michigan.gov/sos"
+            },
+            "portal_link": "http://michigan.gov/sos/0,4670,7-127-1633_8722---,00.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/288/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-08-03",
+            "state": {
+                "name": "Michigan",
+                "postal": "MI",
+                "resource_uri": "/api/v1/state/MI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Tonyan, David"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf",
+            "direct_links": [
+                "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf"
+            ],
+            "end_date": "2012-11-06",
+            "gov": false,
+            "house": true,
+            "id": 72,
+            "organization": {
+                "city": "Hartford",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ctdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 28,
+                "name": "Connecticut Legislation and Election Administration Division",
+                "resource_uri": "/api/v1/organization/28/",
+                "slug": "connecticut-legislation-and-election-administratio",
+                "state": "CT",
+                "street": "30 Trinity Street",
+                "url": "http://www.sots.ct.gov/sots/cwp/view.asp?a=3&Q=415810&sotsNav=|"
+            },
+            "portal_link": "http://www.ct.gov/sots/cwp/view.asp?a=3179&q=489624",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/72/",
+            "result_type": "unofficial",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Connecticut",
+                "postal": "CT",
+                "resource_uri": "/api/v1/state/CT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hopkins, Chris "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/1.10.12_special_election_assembly24_results.pdf",
+            "direct_links": [
+                "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/1.10.12_special_election_assembly24_results.pdf"
+            ],
+            "end_date": "2012-01-10",
+            "gov": false,
+            "house": false,
+            "id": 73,
+            "organization": {
+                "city": "Hartford",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ctdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 28,
+                "name": "Connecticut Legislation and Election Administration Division",
+                "resource_uri": "/api/v1/organization/28/",
+                "slug": "connecticut-legislation-and-election-administratio",
+                "state": "CT",
+                "street": "30 Trinity Street",
+                "url": "http://www.sots.ct.gov/sots/cwp/view.asp?a=3&Q=415810&sotsNav=|"
+            },
+            "portal_link": "http://www.ct.gov/sots/cwp/view.asp?a=3179&q=489624",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/73/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2012-01-10",
+            "state": {
+                "name": "Connecticut",
+                "postal": "CT",
+                "resource_uri": "/api/v1/state/CT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hopkins, Chris "
+        }
+    ]
+}

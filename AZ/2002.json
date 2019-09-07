@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.azsos.gov/election/2002/General/Canvass2002GE.pdf",
+            "direct_links": [
+                "http://www.azsos.gov/election/2002/General/Canvass2002GE.pdf"
+            ],
+            "end_date": "2002-11-05",
+            "gov": true,
+            "house": true,
+            "id": 1168,
+            "organization": {
+                "city": "Phoenix",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 24,
+                "name": "Arizona Secretary of State",
+                "resource_uri": "/api/v1/organization/24/",
+                "slug": "arizona-secretary-state",
+                "state": "AZ",
+                "street": "1700 W. Washington St. ",
+                "url": "http://www.azsos.gov/"
+            },
+            "portal_link": "http://www.azsos.gov/election/2002/general/ElectionInformation.htm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1168/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "Arizona",
+                "postal": "AZ",
+                "resource_uri": "/api/v1/state/AZ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.azsos.gov/election/2002/Primary/Canvass2002PE.pdf",
+            "direct_links": [
+                "http://www.azsos.gov/election/2002/Primary/Canvass2002PE.pdf"
+            ],
+            "end_date": "2002-09-07",
+            "gov": true,
+            "house": true,
+            "id": 1167,
+            "organization": {
+                "city": "Phoenix",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 24,
+                "name": "Arizona Secretary of State",
+                "resource_uri": "/api/v1/organization/24/",
+                "slug": "arizona-secretary-state",
+                "state": "AZ",
+                "street": "1700 W. Washington St. ",
+                "url": "http://www.azsos.gov/"
+            },
+            "portal_link": "http://www.azsos.gov/election/2002/primary/ElectionInformation.htm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1167/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-09-07",
+            "state": {
+                "name": "Arizona",
+                "postal": "AZ",
+                "resource_uri": "/api/v1/state/AZ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

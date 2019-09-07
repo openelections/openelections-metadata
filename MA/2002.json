@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.sec.state.ma.us/ele/eleres/res02/res02idx.htm",
+            "direct_links": [
+                "http://www.sec.state.ma.us/ele/eleres/res02/res02idx.htm"
+            ],
+            "end_date": "2002-11-05",
+            "gov": true,
+            "house": true,
+            "id": 1186,
+            "organization": {
+                "city": "Boston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/madir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 55,
+                "name": "Massachusetts Secretary of the Commonwealth - Elections Division",
+                "resource_uri": "/api/v1/organization/55/",
+                "slug": "massachusetts-secretary-commonwealth-elections-div",
+                "state": "MA",
+                "street": "McCormack Building, Room 1705, One Ashburton Place",
+                "url": "http://www.sec.state.ma.us/"
+            },
+            "portal_link": "http://www.sec.state.ma.us/ele/ele02/ele02idx.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1186/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "Massachusetts",
+                "postal": "MA",
+                "resource_uri": "/api/v1/state/MA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sec.state.ma.us/ele/eleres/res02/res02idx.htm",
+            "direct_links": [
+                "http://www.sec.state.ma.us/ele/eleres/res02/res02idx.htm"
+            ],
+            "end_date": "2002-09-17",
+            "gov": true,
+            "house": true,
+            "id": 1185,
+            "organization": {
+                "city": "Boston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/madir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 55,
+                "name": "Massachusetts Secretary of the Commonwealth - Elections Division",
+                "resource_uri": "/api/v1/organization/55/",
+                "slug": "massachusetts-secretary-commonwealth-elections-div",
+                "state": "MA",
+                "street": "McCormack Building, Room 1705, One Ashburton Place",
+                "url": "http://www.sec.state.ma.us/"
+            },
+            "portal_link": "http://www.sec.state.ma.us/ele/ele02/ele02idx.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "Massachusetts has a semi-closed primary. You can register with a party, or you can remain unregistered and select a party ballot for the primary.  https://www.sec.state.ma.us/ele/elepar/paridx.htm",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1185/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2002-09-17",
+            "state": {
+                "name": "Massachusetts",
+                "postal": "MA",
+                "resource_uri": "/api/v1/state/MA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

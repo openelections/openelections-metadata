@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2016-11-08",
+            "gov": true,
+            "house": true,
+            "id": 1792,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/apps/sos/election/general/general2016",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1792/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.in.gov/apps/sos/primary/sos_primary16"
+            ],
+            "end_date": "2016-05-03",
+            "gov": true,
+            "house": true,
+            "id": 1704,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/apps/sos/primary/sos_primary16",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1704/",
+            "result_type": "unofficial",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-05-03",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

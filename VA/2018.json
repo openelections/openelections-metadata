@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/2018/2018%20November%20General.csv"
+            ],
+            "end_date": "2018-11-06",
+            "gov": false,
+            "house": true,
+            "id": 1883,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 25,
+                "name": "Virginia State Board of Elections",
+                "resource_uri": "/api/v1/organization/25/",
+                "slug": "va-sbe",
+                "state": "VA",
+                "street": "",
+                "url": "http://www.sbe.virginia.gov/"
+            },
+            "portal_link": "https://www.elections.virginia.gov/resultsreports/election-results/2018-election-results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1883/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-11-06",
+            "state": {
+                "name": "Virginia",
+                "postal": "VA",
+                "resource_uri": "/api/v1/state/VA/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/2018/2018%20June%20Democratic%20Primary%20.csv",
+                "https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/2018/2018%20June%20Republican%20Primary%20.csv"
+            ],
+            "end_date": "2018-06-12",
+            "gov": false,
+            "house": true,
+            "id": 1877,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 25,
+                "name": "Virginia State Board of Elections",
+                "resource_uri": "/api/v1/organization/25/",
+                "slug": "va-sbe",
+                "state": "VA",
+                "street": "",
+                "url": "http://www.sbe.virginia.gov/"
+            },
+            "portal_link": "https://www.elections.virginia.gov/resultsreports/election-results/2018-election-results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1877/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-06-12",
+            "state": {
+                "name": "Virginia",
+                "postal": "VA",
+                "resource_uri": "/api/v1/state/VA/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.state.al.us/downloads/dl2.aspx?div1=Elections%20Division&types=Data"
+            ],
+            "end_date": "2000-11-07",
+            "gov": false,
+            "house": true,
+            "id": 855,
+            "organization": {
+                "city": "Montgomery",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 48,
+                "name": "Alabama Elections Division",
+                "resource_uri": "/api/v1/organization/48/",
+                "slug": "alabama-elections-division",
+                "state": "AL",
+                "street": "600 Dexter Ave, Suite E-208",
+                "url": "http://www.alabamavotes.gov/"
+            },
+            "portal_link": "http://www.sos.state.al.us/downloads/dl2.aspx?div1=Elections%20Division&types=Data",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/855/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2000-11-07",
+            "state": {
+                "name": "Alabama",
+                "postal": "AL",
+                "resource_uri": "/api/v1/state/AL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Strauss, Aaron"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.state.al.us/downloads/dl2.aspx?div1=Elections%20Division&types=Data"
+            ],
+            "end_date": "2000-06-06",
+            "gov": false,
+            "house": true,
+            "id": 856,
+            "organization": {
+                "city": "Montgomery",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 48,
+                "name": "Alabama Elections Division",
+                "resource_uri": "/api/v1/organization/48/",
+                "slug": "alabama-elections-division",
+                "state": "AL",
+                "street": "600 Dexter Ave, Suite E-208",
+                "url": "http://www.alabamavotes.gov/"
+            },
+            "portal_link": "http://www.sos.state.al.us/downloads/dl2.aspx?div1=Elections%20Division&types=Data",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/856/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2000-06-06",
+            "state": {
+                "name": "Alabama",
+                "postal": "AL",
+                "resource_uri": "/api/v1/state/AL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Strauss, Aaron"
+        }
+    ]
+}

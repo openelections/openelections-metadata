@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://share.tn.gov/sos/election/results/20141104_CountyTotals_01.pdf",
+                "http://share.tn.gov/sos/election/results/20141104_PrecinctTotals.xlsx"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1666,
+            "organization": {
+                "city": "Nashville",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 9,
+                "name": "Tennessee Secretary of State - Division of Elections",
+                "resource_uri": "/api/v1/organization/9/",
+                "slug": "tennessee-secretary-state-division-elections",
+                "state": "TN",
+                "street": "312 Rosa L. Parks Avenue, Snodgrass Tower, 7th Floor",
+                "url": "http://www.tn.gov/sos/election/results.htm"
+            },
+            "portal_link": "http://sos.tn.gov/products/elections/election-results",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1666/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Tennessee",
+                "postal": "TN",
+                "resource_uri": "/api/v1/state/TN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://share.tn.gov/sos/election/results/Aug2014PrimarybyPrecinct.xlsx"
+            ],
+            "end_date": "2014-08-07",
+            "gov": true,
+            "house": true,
+            "id": 1667,
+            "organization": {
+                "city": "Nashville",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 9,
+                "name": "Tennessee Secretary of State - Division of Elections",
+                "resource_uri": "/api/v1/organization/9/",
+                "slug": "tennessee-secretary-state-division-elections",
+                "state": "TN",
+                "street": "312 Rosa L. Parks Avenue, Snodgrass Tower, 7th Floor",
+                "url": "http://www.tn.gov/sos/election/results.htm"
+            },
+            "portal_link": "http://sos.tn.gov/products/elections/election-results",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1667/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-08-07",
+            "state": {
+                "name": "Tennessee",
+                "postal": "TN",
+                "resource_uri": "/api/v1/state/TN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

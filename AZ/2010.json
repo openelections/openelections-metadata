@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.azsos.gov/election/2010/General/Canvass2010GE.pdf"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 7,
+            "organization": {
+                "city": "Phoenix",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 24,
+                "name": "Arizona Secretary of State",
+                "resource_uri": "/api/v1/organization/24/",
+                "slug": "arizona-secretary-state",
+                "state": "AZ",
+                "street": "1700 W. Washington St. ",
+                "url": "http://www.azsos.gov/"
+            },
+            "portal_link": "http://www.azsos.gov/election/2010/General/ElectionInformation.htm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/7/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Arizona",
+                "postal": "AZ",
+                "resource_uri": "/api/v1/state/AZ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Wyloge, Evan "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.azsos.gov/election/2010/Primary/Canvass2010PE.pdf"
+            ],
+            "end_date": "2010-08-24",
+            "gov": true,
+            "house": true,
+            "id": 8,
+            "organization": {
+                "city": "Phoenix",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 24,
+                "name": "Arizona Secretary of State",
+                "resource_uri": "/api/v1/organization/24/",
+                "slug": "arizona-secretary-state",
+                "state": "AZ",
+                "street": "1700 W. Washington St. ",
+                "url": "http://www.azsos.gov/"
+            },
+            "portal_link": "http://www.azsos.gov/election/2010/Primary/ElectionInformation.htm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/8/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-08-24",
+            "state": {
+                "name": "Arizona",
+                "postal": "AZ",
+                "resource_uri": "/api/v1/state/AZ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Wyloge, Evan "
+        }
+    ]
+}

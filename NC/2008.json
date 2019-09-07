@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "ftp://alt.ncsbe.gov/enrs/priprecinct11xx04xx2008.zip",
+            "direct_links": [
+                "ftp://alt.ncsbe.gov/enrs/priprecinct11xx04xx2008.zip"
+            ],
+            "end_date": "2008-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1123,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "http://www.ncsbe.gov/ncsbe/Elections/Election-Results-Display?ED1=11xx04xx2008&EL1=GENERAL&YR1=2008&CR1=A",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1123/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "ftp://alt.ncsbe.gov/enrs/priprecinct05xx06xx2008.zip",
+            "direct_links": [
+                "ftp://alt.ncsbe.gov/enrs/priprecinct05xx06xx2008.zip"
+            ],
+            "end_date": "2008-05-06",
+            "gov": false,
+            "house": true,
+            "id": 1122,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "http://www.ncsbe.gov/ncsbe/Elections/Election-Results-Display?ED1=05xx06xx2008&EL1=PRIMARY&YR1=2008&CR1=A",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1122/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-05-06",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

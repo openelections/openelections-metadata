@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/Elections/2014/2014-General-Statewide-by-Precinct.xlsx",
+                "http://sos.mt.gov/Elections/2014/2014-General-Official-Statewide-Canvass.pdf",
+                "http://sos.mt.gov/Elections/2014/2014-General-Official-Legislative-Canvass.pdf",
+                "http://sos.mt.gov/Elections/2014/2014-General-Official-Statewide-by-HD-Canvass.pdf"
+            ],
+            "end_date": "2014-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1680,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/Elections/Results/index.asp",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1680/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/elections/2014/2014-Primary-Official-Statewide-Canvass.pdf",
+                "http://electionresults.sos.mt.gov/resultsCountyList.aspx?eid=7",
+                "http://sos.mt.gov/elections/2014/2014-Primary-Official-Legislative-Canvass.pdf"
+            ],
+            "end_date": "2014-06-03",
+            "gov": true,
+            "house": true,
+            "id": 1457,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1457/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-06-03",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

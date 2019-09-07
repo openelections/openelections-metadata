@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.idaho.gov/elect/results.htm",
+            "direct_links": [
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/General/cnty_USPres.htm",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/General/cnty_USRep.htm",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/General/12%20Gen_fed_cnty.xls",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/General/12%20Gen_fed_prec.xls"
+            ],
+            "end_date": "2012-11-06",
+            "gov": false,
+            "house": true,
+            "id": 742,
+            "organization": {
+                "city": "Boise",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 42,
+                "name": "Idaho Secretary of State",
+                "resource_uri": "/api/v1/organization/42/",
+                "slug": "idaho-secretary-state",
+                "state": "ID",
+                "street": "700 West Jefferson, Room E-205",
+                "url": "http://www.sos.idaho.gov/"
+            },
+            "portal_link": "http://www.sos.idaho.gov/elect/results.htm",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/742/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Idaho",
+                "postal": "ID",
+                "resource_uri": "/api/v1/state/ID/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Admin, OpenElexUser"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/cnty_US_Representative.htm",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/cnty_stwd_jud.htm",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/12%20Pri_fed_cnty.xls",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/12%20Pri_leg_cnty.xls",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/12%20Pri_fed_prec.xls",
+                "http://www.sos.idaho.gov/elect/RESULTS/2012/Primary/12%20Pri_leg_prec.xls"
+            ],
+            "end_date": "2012-05-15",
+            "gov": false,
+            "house": true,
+            "id": 743,
+            "organization": {
+                "city": "Boise",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 42,
+                "name": "Idaho Secretary of State",
+                "resource_uri": "/api/v1/organization/42/",
+                "slug": "idaho-secretary-state",
+                "state": "ID",
+                "street": "700 West Jefferson, Room E-205",
+                "url": "http://www.sos.idaho.gov/"
+            },
+            "portal_link": "http://www.sos.idaho.gov/elect/results.htm",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "This was the first closed primary apparently. See http://www.sos.idaho.gov/elect/primary_election.htm",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/743/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2012-05-15",
+            "state": {
+                "name": "Idaho",
+                "postal": "ID",
+                "resource_uri": "/api/v1/state/ID/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Admin, OpenElexUser"
+        }
+    ]
+}

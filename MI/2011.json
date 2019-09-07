@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://miboecfr.nictusa.com/election/results/11SP1/11SP1all.html",
+            "direct_links": [
+                "http://miboecfr.nictusa.com/election/results/11SP1/"
+            ],
+            "end_date": "2011-11-08",
+            "gov": false,
+            "house": false,
+            "id": 279,
+            "organization": {
+                "city": "Lansing",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/midir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 19,
+                "name": "Michigan Secretary of State",
+                "resource_uri": "/api/v1/organization/19/",
+                "slug": "michigan-secretary-state",
+                "state": "MI",
+                "street": "Michigan Department of State",
+                "url": "http://www.michigan.gov/sos"
+            },
+            "portal_link": "http://michigan.gov/sos/0,4670,7-127-1633_8722---,00.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/279/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2011-11-08",
+            "state": {
+                "name": "Michigan",
+                "postal": "MI",
+                "resource_uri": "/api/v1/state/MI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Tonyan, David"
+        }
+    ]
+}

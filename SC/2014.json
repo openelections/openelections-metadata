@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.enr-scvotes.org/SC/53424/149816/en/summary.html"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1678,
+            "organization": {
+                "city": "Columbia",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/scdir.htm",
+                "gov_agency": false,
+                "gov_level": "",
+                "id": 41,
+                "name": "South Carolina State Election Commission",
+                "resource_uri": "/api/v1/organization/41/",
+                "slug": "south-carolina-state-election-commission",
+                "state": "SC",
+                "street": "2221 Devine Street, Suite 105",
+                "url": "http://www.scvotes.org/"
+            },
+            "portal_link": "http://www.scvotes.org/2010/09/08/election_results",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1678/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "South Carolina",
+                "postal": "SC",
+                "resource_uri": "/api/v1/state/SC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.enr-scvotes.org/SC/51763/133986/en/summary.html"
+            ],
+            "end_date": "2014-06-10",
+            "gov": false,
+            "house": true,
+            "id": 1657,
+            "organization": {
+                "city": "Columbia",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/scdir.htm",
+                "gov_agency": false,
+                "gov_level": "",
+                "id": 41,
+                "name": "South Carolina State Election Commission",
+                "resource_uri": "/api/v1/organization/41/",
+                "slug": "south-carolina-state-election-commission",
+                "state": "SC",
+                "street": "2221 Devine Street, Suite 105",
+                "url": "http://www.scvotes.org/"
+            },
+            "portal_link": "http://www.scvotes.org/2010/09/08/election_results",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1657/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-06-10",
+            "state": {
+                "name": "South Carolina",
+                "postal": "SC",
+                "resource_uri": "/api/v1/state/SC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

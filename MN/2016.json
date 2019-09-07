@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.mn.us/Results/MediaResult/93?mediafileid=16"
+            ],
+            "end_date": "2016-01-12",
+            "gov": false,
+            "house": false,
+            "id": 1707,
+            "organization": {
+                "city": "Minneapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mndir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 8,
+                "name": "Minnesota Secretary of State",
+                "resource_uri": "/api/v1/organization/8/",
+                "slug": "minnesota-secretary-state",
+                "state": "MN",
+                "street": "180 State Office Building, 100 Rev. Dr. Martin Luther King Jr. Blvd.",
+                "url": "http://www.sos.state.mn.us/"
+            },
+            "portal_link": "http://electionresults.sos.state.mn.us/ENR/home/93",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1707/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2016-01-12",
+            "state": {
+                "name": "Minnesota",
+                "postal": "MN",
+                "resource_uri": "/api/v1/state/MN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://hawaii.gov/elections/results/2008/general/files/detail.txt",
+            "direct_links": [
+                "http://hawaii.gov/elections/results/2008/general/files/detail.txt"
+            ],
+            "end_date": "2008-11-04",
+            "gov": false,
+            "house": true,
+            "id": 593,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://hawaii.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/593/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://hawaii.gov/elections/results/2008/primary/files/detail.txt",
+            "direct_links": [
+                "http://hawaii.gov/elections/results/2008/primary/files/detail.txt"
+            ],
+            "end_date": "2008-09-20",
+            "gov": false,
+            "house": true,
+            "id": 594,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://hawaii.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/594/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2008-09-20",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

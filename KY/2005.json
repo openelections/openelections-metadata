@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/Special%20Election/2005%20Special%20Election.pdf",
+            "direct_links": [
+                "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/Special%20Election/2005%20Special%20Election.pdf"
+            ],
+            "end_date": "2005-05-24",
+            "gov": false,
+            "house": false,
+            "id": 576,
+            "organization": {
+                "city": "Frankfort",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/kydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 22,
+                "name": "Kentucky State Board of Elections",
+                "resource_uri": "/api/v1/organization/22/",
+                "slug": "kentucky-state-board-elections",
+                "state": "KY",
+                "street": "140 Walnut Street",
+                "url": "http://elect.ky.gov/results/Pages/default.aspx"
+            },
+            "portal_link": "http://elect.ky.gov/results/Pages/default.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/576/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2005-05-24",
+            "state": {
+                "name": "Kentucky",
+                "postal": "KY",
+                "resource_uri": "/api/v1/state/KY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Schaver, Mark "
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "no",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.cga.ct.gov/red2011/Documents/ELECT/2002%20Election%20Results%20By%20VTD-Candidate.csv"
+            ],
+            "end_date": "2002-11-05",
+            "gov": true,
+            "house": true,
+            "id": 77,
+            "organization": {
+                "city": "Hartford",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ctdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 28,
+                "name": "Connecticut Legislation and Election Administration Division",
+                "resource_uri": "/api/v1/organization/28/",
+                "slug": "connecticut-legislation-and-election-administratio",
+                "state": "CT",
+                "street": "30 Trinity Street",
+                "url": "http://www.sots.ct.gov/sots/cwp/view.asp?a=3&Q=415810&sotsNav=|"
+            },
+            "portal_link": "http://www.cga.ct.gov/red2011/data.asp",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/77/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "Connecticut",
+                "postal": "CT",
+                "resource_uri": "/api/v1/state/CT/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hopkins, Chris "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2002/september_10_2002_primary_results.pdf",
+            "direct_links": [
+                "http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2002/september_10_2002_primary_results.pdf"
+            ],
+            "end_date": "2002-09-10",
+            "gov": false,
+            "house": true,
+            "id": 728,
+            "organization": {
+                "city": "Hartford",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ctdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 28,
+                "name": "Connecticut Legislation and Election Administration Division",
+                "resource_uri": "/api/v1/organization/28/",
+                "slug": "connecticut-legislation-and-election-administratio",
+                "state": "CT",
+                "street": "30 Trinity Street",
+                "url": "http://www.sots.ct.gov/sots/cwp/view.asp?a=3&Q=415810&sotsNav=|"
+            },
+            "portal_link": "http://www.sots.ct.gov/sots/cwp/view.asp?a=3179&q=489624",
+            "precinct_level": false,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/728/",
+            "result_type": "unofficial",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-09-10",
+            "state": {
+                "name": "Connecticut",
+                "postal": "CT",
+                "resource_uri": "/api/v1/state/CT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Hopkins, Chris "
+        }
+    ]
+}

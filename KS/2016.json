@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.kssos.org/elections/16elec/2016_General_Election_Official_Results.pdf",
+                "http://www.kssos.org/elections/16elec/2016_General_Election_Presidential_Results_by_County.xlsx"
+            ],
+            "end_date": "2016-11-08",
+            "gov": false,
+            "house": true,
+            "id": 1778,
+            "organization": {
+                "city": "Topeka",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 15,
+                "name": "Kansas Secretary of State elections division",
+                "resource_uri": "/api/v1/organization/15/",
+                "slug": "kansas-secretary-state-elections-division",
+                "state": "KS",
+                "street": "Memorial Hall, 1st Floor 120 SW 10th Avenue",
+                "url": "http://www.sos.ks.gov/elections/elections_statistics.html"
+            },
+            "portal_link": "http://www.kssos.org/elections/16elec/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1778/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "Kansas",
+                "postal": "KS",
+                "resource_uri": "/api/v1/state/KS/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.kssos.org/elections/16elec/2016_Primary_Election_OFFICIAL_Results.pdf"
+            ],
+            "end_date": "2016-08-02",
+            "gov": false,
+            "house": true,
+            "id": 1779,
+            "organization": {
+                "city": "Topeka",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 15,
+                "name": "Kansas Secretary of State elections division",
+                "resource_uri": "/api/v1/organization/15/",
+                "slug": "kansas-secretary-state-elections-division",
+                "state": "KS",
+                "street": "Memorial Hall, 1st Floor 120 SW 10th Avenue",
+                "url": "http://www.sos.ks.gov/elections/elections_statistics.html"
+            },
+            "portal_link": "http://www.kssos.org/elections/16elec/",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1779/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-08-02",
+            "state": {
+                "name": "Kansas",
+                "postal": "KS",
+                "resource_uri": "/api/v1/state/KS/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

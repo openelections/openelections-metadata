@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.enr-scvotes.org/SC/59148/160299/en/summary.html"
+            ],
+            "end_date": "2016-02-20",
+            "gov": false,
+            "house": false,
+            "id": 1709,
+            "organization": {
+                "city": "Columbia",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/scdir.htm",
+                "gov_agency": false,
+                "gov_level": "",
+                "id": 41,
+                "name": "South Carolina State Election Commission",
+                "resource_uri": "/api/v1/organization/41/",
+                "slug": "south-carolina-state-election-commission",
+                "state": "SC",
+                "street": "2221 Devine Street, Suite 105",
+                "url": "http://www.scvotes.org/"
+            },
+            "portal_link": "http://www.scvotes.org/2010/09/08/election_results",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "Republican Presidential Preference Primary",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1709/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2016-02-20",
+            "state": {
+                "name": "South Carolina",
+                "postal": "SC",
+                "resource_uri": "/api/v1/state/SC/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Nelson, Philip"
+        }
+    ]
+}

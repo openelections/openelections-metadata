@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.maine.gov/sos/cec/elec/2007/district27.html",
+                "http://www.maine.gov/sos/cec/elec/2007/district72.html",
+                "http://www.maine.gov/sos/cec/elec/2007/district83.html",
+                "http://www.maine.gov/sos/cec/elec/2007/district93.html",
+                "http://www.maine.gov/sos/cec/elec/2007/district99.html"
+            ],
+            "end_date": "2007-11-06",
+            "gov": false,
+            "house": false,
+            "id": 246,
+            "organization": {
+                "city": "Augusta",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 14,
+                "name": "Maine Secretary of State, Bureau of Corporations, Elections & Commissions",
+                "resource_uri": "/api/v1/organization/14/",
+                "slug": "maine-secretary-state-bureau-corporations-election",
+                "state": "ME",
+                "street": "101 State House Station ",
+                "url": "http://www.maine.gov/sos/cec/elec/index.html"
+            },
+            "portal_link": "http://www.maine.gov/sos/cec/elec/prior06-07.htm#nov07",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/246/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2007-11-06",
+            "state": {
+                "name": "Maine",
+                "postal": "ME",
+                "resource_uri": "/api/v1/state/ME/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Fenton, Jacob"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.maine.gov/sos/cec/elec/2007/sr83.txt"
+            ],
+            "end_date": "2007-06-12",
+            "gov": false,
+            "house": false,
+            "id": 247,
+            "organization": {
+                "city": "Augusta",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 14,
+                "name": "Maine Secretary of State, Bureau of Corporations, Elections & Commissions",
+                "resource_uri": "/api/v1/organization/14/",
+                "slug": "maine-secretary-state-bureau-corporations-election",
+                "state": "ME",
+                "street": "101 State House Station ",
+                "url": "http://www.maine.gov/sos/cec/elec/index.html"
+            },
+            "portal_link": "http://www.maine.gov/sos/cec/elec/prior06-07.htm#jun07",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/247/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2007-06-12",
+            "state": {
+                "name": "Maine",
+                "postal": "ME",
+                "resource_uri": "/api/v1/state/ME/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Fenton, Jacob"
+        }
+    ]
+}

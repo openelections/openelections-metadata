@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.mt.gov/elections/archives/2000s/2004/2004-GenCnty.pdf",
+            "direct_links": [
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-GenState.pdf",
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-GenCnty.pdf",
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-GenLeg.pdf"
+            ],
+            "end_date": "2004-11-02",
+            "gov": true,
+            "house": true,
+            "id": 764,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/764/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://sos.mt.gov/elections/archives/2000s/2004/2004-PrimCnty.pdf",
+            "direct_links": [
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-PrimState.pdf",
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-PrimCnty.pdf",
+                "http://sos.mt.gov/elections/archives/2000s/2004/2004-PrimLeg.pdf"
+            ],
+            "end_date": "2004-06-08",
+            "gov": true,
+            "house": true,
+            "id": 765,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/765/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-06-08",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

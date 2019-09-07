@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "ftp://alt.ncsbe.gov/enrs/priprecinct11xx07xx2000.zip"
+            ],
+            "end_date": "2000-11-07",
+            "gov": true,
+            "house": true,
+            "id": 1397,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1397/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2000-11-07",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2000-05-02",
+            "gov": true,
+            "house": true,
+            "id": 1398,
+            "organization": {
+                "city": "Raleigh",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ncdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 54,
+                "name": "North Carolina State Board of Elections",
+                "resource_uri": "/api/v1/organization/54/",
+                "slug": "north-carolina-state-board-elections",
+                "state": "NC",
+                "street": "441 North Harrington Street",
+                "url": "http://www.ncsbe.gov/index.html"
+            },
+            "portal_link": "ftp://alt.ncsbe.gov/data/ElectResults/2000_05_02/",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1398/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2000-05-02",
+            "state": {
+                "name": "North Carolina",
+                "postal": "NC",
+                "resource_uri": "/api/v1/state/NC/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

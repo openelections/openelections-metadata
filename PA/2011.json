@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://www.electionreturns.state.pa.us/Default.aspx?EID=100042&ESTID=3&CID=2295&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1",
+            "direct_links": [
+                "http://www.electionreturns.state.pa.us/Default.aspx?EID=100042&ESTID=3&CID=2295&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1"
+            ],
+            "end_date": "2011-03-15",
+            "gov": false,
+            "house": false,
+            "id": 956,
+            "organization": {
+                "city": "Harrisburg",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/padir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 29,
+                "name": "Pennsylvania Department of State",
+                "resource_uri": "/api/v1/organization/29/",
+                "slug": "pennsylvania-department-state",
+                "state": "PA",
+                "street": "302 North Office Building",
+                "url": "http://www.electionreturns.state.pa.us/"
+            },
+            "portal_link": "http://www.electionreturns.state.pa.us/Default.aspx?EID=100042&ESTID=3&CID=0&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/956/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2011-03-15",
+            "state": {
+                "name": "Pennsylvania",
+                "postal": "PA",
+                "resource_uri": "/api/v1/state/PA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Selle, Pam "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://www.electionreturns.state.pa.us/Default.aspx?EID=100041&ESTID=3&CID=2340&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1",
+            "direct_links": [
+                "http://www.electionreturns.state.pa.us/Default.aspx?EID=100041&ESTID=3&CID=2340&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1"
+            ],
+            "end_date": "2011-02-01",
+            "gov": false,
+            "house": false,
+            "id": 955,
+            "organization": {
+                "city": "Harrisburg",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/padir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 29,
+                "name": "Pennsylvania Department of State",
+                "resource_uri": "/api/v1/organization/29/",
+                "slug": "pennsylvania-department-state",
+                "state": "PA",
+                "street": "302 North Office Building",
+                "url": "http://www.electionreturns.state.pa.us/"
+            },
+            "portal_link": "http://www.electionreturns.state.pa.us/Default.aspx?EID=100041&ESTID=3&CID=0&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/955/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2011-02-01",
+            "state": {
+                "name": "Pennsylvania",
+                "postal": "PA",
+                "resource_uri": "/api/v1/state/PA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Selle, Pam "
+        }
+    ]
+}

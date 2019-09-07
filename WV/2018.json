@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2018-05-08",
+            "gov": false,
+            "house": true,
+            "id": 1872,
+            "organization": {
+                "city": "Charleston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 51,
+                "name": "West Virginia Secretary of State",
+                "resource_uri": "/api/v1/organization/51/",
+                "slug": "west-virginia-secretary-state",
+                "state": "WV",
+                "street": "1900 Kanawha Boulevard East",
+                "url": "http://apps.sos.wv.gov/elections/results/"
+            },
+            "portal_link": "",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1872/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-05-08",
+            "state": {
+                "name": "West Virginia",
+                "postal": "WV",
+                "resource_uri": "/api/v1/state/WV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

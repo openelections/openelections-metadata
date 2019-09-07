@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://hawaii.gov/elections/results/2012/general/files/media.txt",
+            "direct_links": [
+                "http://hawaii.gov/elections/results/2012/general/files/media.txt"
+            ],
+            "end_date": "2012-11-06",
+            "gov": false,
+            "house": true,
+            "id": 588,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://hawaii.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/588/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://hawaii.gov/elections/results/2012/primary/files/media.txt",
+            "direct_links": [
+                "http://hawaii.gov/elections/results/2012/primary/files/media.txt"
+            ],
+            "end_date": "2012-08-11",
+            "gov": false,
+            "house": true,
+            "id": 589,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://hawaii.gov/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "From the fact sheet http://hawaii.gov/elections/factsheets/fsvs522.pdf\r\n\"The Primary Election is a nomination process to choose candidates who will \r\nrepresent the political parties at the General Election. You, the voter, select the \r\ncandidates of the political party of your choice. Your choice of party and \r\ncandidates remains secret. \"\r\nFairvote.org describes this primary as open (http://www.fairvote.org/congressional-and-presidential-primaries-open-closed-semi-closed-and-top-two#.Ucxdoj7TVU4)",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/589/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-08-11",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

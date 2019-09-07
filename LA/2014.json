@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://staticresults.sos.la.gov/12062014/12062014_Congressional.html",
+                "http://staticresults.sos.la.gov/12062014/12062014_Statewide.html",
+                "http://staticresults.sos.la.gov/12062014/12062014_MultiParish.html",
+                "http://lasos.blob.core.windows.net/graphical-prod/rss/12062014_RSS.xml"
+            ],
+            "end_date": "2014-12-06",
+            "gov": false,
+            "house": true,
+            "id": 1601,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ladir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 46,
+                "name": "Louisiana Secretary of State",
+                "resource_uri": "/api/v1/organization/46/",
+                "slug": "louisiana-secretary-state",
+                "state": "LA",
+                "street": "",
+                "url": "http://www.sos.la.gov/Pages/default.aspx"
+            },
+            "portal_link": "http://staticresults.sos.la.gov/12062014/Default.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1601/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-12-06",
+            "state": {
+                "name": "Louisiana",
+                "postal": "LA",
+                "resource_uri": "/api/v1/state/LA/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://staticresults.sos.la.gov/11042014/11042014_Congressional.html",
+                "http://staticresults.sos.la.gov/11042014/11042014_Statewide.html",
+                "http://staticresults.sos.la.gov/11042014/11042014_MultiParish.html",
+                "http://lasos.blob.core.windows.net/graphical-prod/rss/11042014_RSS.xml"
+            ],
+            "end_date": "2014-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1484,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ladir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 46,
+                "name": "Louisiana Secretary of State",
+                "resource_uri": "/api/v1/organization/46/",
+                "slug": "louisiana-secretary-state",
+                "state": "LA",
+                "street": "",
+                "url": "http://www.sos.la.gov/Pages/default.aspx"
+            },
+            "portal_link": "http://staticresults.sos.la.gov/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "In Louisiana, the runoff general election is only required if no candidate receives 50 percent or more of the primary vote.",
+            "primary_type": "blanket",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1484/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Louisiana",
+                "postal": "LA",
+                "resource_uri": "/api/v1/state/LA/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

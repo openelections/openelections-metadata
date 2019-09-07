@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mo.gov/enrweb/allresults.asp?arc=1&eid=258",
+                "http://sos.mo.gov/enrweb/countyselect.asp?arc=1&eid=258",
+                "http://sos.mo.gov/enrweb/allresults.asp?arc=1&eid=259",
+                "http://sos.mo.gov/enrweb/countyselect.asp?arc=1&eid=259"
+            ],
+            "end_date": "2009-11-03",
+            "gov": false,
+            "house": false,
+            "id": 783,
+            "organization": {
+                "city": "Jefferson City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/modir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 44,
+                "name": "Missouri Secretary of State",
+                "resource_uri": "/api/v1/organization/44/",
+                "slug": "missouri-secretary-state",
+                "state": "MO",
+                "street": "600 W. Main St.",
+                "url": "http://sos.mo.gov/"
+            },
+            "portal_link": "http://sos.mo.gov/enrweb/electionselect.asp?eid=256&arc",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/783/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2009-11-03",
+            "state": {
+                "name": "Missouri",
+                "postal": "MO",
+                "resource_uri": "/api/v1/state/MO/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Myers, Justin "
+        }
+    ]
+}

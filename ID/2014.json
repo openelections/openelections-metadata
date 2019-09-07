@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://sos.idaho.gov/elect/results/2014/General/14gen_stwd_cnty.xls",
+                "https://sos.idaho.gov/elect/results/2014/General/14gen_leg_cnty.xls",
+                "https://sos.idaho.gov/elect/results/2014/General/14gen_stwd_pct.xls",
+                "https://sos.idaho.gov/elect/results/2014/General/14gen_leg_pct.xls"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1821,
+            "organization": {
+                "city": "Boise",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 42,
+                "name": "Idaho Secretary of State",
+                "resource_uri": "/api/v1/organization/42/",
+                "slug": "idaho-secretary-state",
+                "state": "ID",
+                "street": "700 West Jefferson, Room E-205",
+                "url": "http://www.sos.idaho.gov/"
+            },
+            "portal_link": "https://sos.idaho.gov/elect/results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1821/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Idaho",
+                "postal": "ID",
+                "resource_uri": "/api/v1/state/ID/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://sos.idaho.gov/elect/results/2014/Primary/14pri_stwd_pct.xls",
+                "https://sos.idaho.gov/elect/results/2014/Primary/14pri_leg_pct.xls",
+                "https://sos.idaho.gov/elect/results/2014/Primary/14pri_stwd_cnty.xls",
+                "https://sos.idaho.gov/elect/results/2014/Primary/14pri_leg_cnty.xls"
+            ],
+            "end_date": "2014-05-20",
+            "gov": true,
+            "house": true,
+            "id": 1820,
+            "organization": {
+                "city": "Boise",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/iddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 42,
+                "name": "Idaho Secretary of State",
+                "resource_uri": "/api/v1/organization/42/",
+                "slug": "idaho-secretary-state",
+                "state": "ID",
+                "street": "700 West Jefferson, Room E-205",
+                "url": "http://www.sos.idaho.gov/"
+            },
+            "portal_link": "https://sos.idaho.gov/elect/results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1820/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-05-20",
+            "state": {
+                "name": "Idaho",
+                "postal": "ID",
+                "resource_uri": "/api/v1/state/ID/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

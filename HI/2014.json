@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://files.hawaii.gov/elections/files/results/2014/general/summary.txt",
+                "http://files.hawaii.gov/elections/files/results/2014/general/media.txt"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1732,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://elections.hawaii.gov/election-results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1732/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://files.hawaii.gov/elections/files/results/2014/primary/summary.txt",
+                "http://files.hawaii.gov/elections/files/results/2014/primary/media.txt"
+            ],
+            "end_date": "2014-08-09",
+            "gov": true,
+            "house": true,
+            "id": 1731,
+            "organization": {
+                "city": "Pearl City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/hidir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 37,
+                "name": "Hawaii Office of Elections",
+                "resource_uri": "/api/v1/organization/37/",
+                "slug": "hawaii-office-elections",
+                "state": "HI",
+                "street": "802 Lehua Ave.",
+                "url": "http://hawaii.gov/elections/"
+            },
+            "portal_link": "http://elections.hawaii.gov/election-results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1731/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-08-09",
+            "state": {
+                "name": "Hawaii",
+                "postal": "HI",
+                "resource_uri": "/api/v1/state/HI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

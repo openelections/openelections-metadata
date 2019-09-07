@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elections.utah.gov/Media/Default/Documents/Election_Results/General/2002Gen.pdf",
+            "direct_links": [
+                "http://elections.utah.gov/Media/Default/Documents/Election_Results/General/2002Gen.pdf"
+            ],
+            "end_date": "2002-11-06",
+            "gov": false,
+            "house": true,
+            "id": 836,
+            "organization": {
+                "city": "Salt Lake City",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 45,
+                "name": "Utah Lieutenant Governor",
+                "resource_uri": "/api/v1/organization/45/",
+                "slug": "utah-lieutenant-governor",
+                "state": "UT",
+                "street": "Utah State Capitol, Suite 220",
+                "url": "http://elections.utah.gov/election-resources/election-results"
+            },
+            "portal_link": "http://elections.utah.gov/election-resources/election-results",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/836/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-11-06",
+            "state": {
+                "name": "Utah",
+                "postal": "UT",
+                "resource_uri": "/api/v1/state/UT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://elections.utah.gov/Media/Default/Documents/Election_Results/Primary/2002Pri.pdf",
+            "direct_links": [
+                "http://elections.utah.gov/Media/Default/Documents/Election_Results/Primary/2002Pri.pdf"
+            ],
+            "end_date": "2002-06-25",
+            "gov": false,
+            "house": true,
+            "id": 837,
+            "organization": {
+                "city": "Salt Lake City",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 45,
+                "name": "Utah Lieutenant Governor",
+                "resource_uri": "/api/v1/organization/45/",
+                "slug": "utah-lieutenant-governor",
+                "state": "UT",
+                "street": "Utah State Capitol, Suite 220",
+                "url": "http://elections.utah.gov/election-resources/election-results"
+            },
+            "portal_link": "http://elections.utah.gov/election-resources/election-results",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "GOP primary is closed; Democratic & Constitution primaries are open.",
+            "primary_type": "other",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/837/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-06-25",
+            "state": {
+                "name": "Utah",
+                "postal": "UT",
+                "resource_uri": "/api/v1/state/UT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        }
+    ]
+}

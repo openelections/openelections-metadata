@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://sos.alabama.gov/sites/default/files/voter-pdfs/2017%20Official%20General%20Election%20Results%20without%20Write-In%20Appendix%20-%202017-12-28.pdf"
+            ],
+            "end_date": "2017-12-12",
+            "gov": false,
+            "house": false,
+            "id": 1859,
+            "organization": {
+                "city": "Montgomery",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 48,
+                "name": "Alabama Elections Division",
+                "resource_uri": "/api/v1/organization/48/",
+                "slug": "alabama-elections-division",
+                "state": "AL",
+                "street": "600 Dexter Ave, Suite E-208",
+                "url": "http://www.alabamavotes.gov/"
+            },
+            "portal_link": "https://sos.alabama.gov/alabama-votes/voter/election-information/2017",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1859/",
+            "result_type": "certified",
+            "senate": true,
+            "special": true,
+            "start_date": "2017-12-12",
+            "state": {
+                "name": "Alabama",
+                "postal": "AL",
+                "resource_uri": "/api/v1/state/AL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

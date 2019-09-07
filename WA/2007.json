@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://vote.wa.gov/results/20071106/export/20071106_AllState.csv",
+            "direct_links": [
+                "http://vote.wa.gov/results/20071106/export/20071106_AllState.csv",
+                "https://wei.sos.wa.gov/agency/osos/en/press_and_research/PreviousElections/2007/General/documents/2007gen%20results%20(by%20county).xls"
+            ],
+            "end_date": "2007-11-06",
+            "gov": false,
+            "house": false,
+            "id": 1213,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "http://vote.wa.gov/results/20071106/Export.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1213/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-11-06",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "https://wei.sos.wa.gov/agency/osos/en/press_and_research/PreviousElections/2007/Primary/Documents/2007Prim%20County%20Results.xls",
+            "direct_links": [
+                "https://wei.sos.wa.gov/agency/osos/en/press_and_research/PreviousElections/2007/Primary/Documents/2007Prim%20County%20Results.xls",
+                "https://wei.sos.wa.gov/agency/osos/en/press_and_research/PreviousElections/2007/Primary/Documents/2007Prim%20Statewide%20Results_FINAL.xls"
+            ],
+            "end_date": "2007-08-21",
+            "gov": false,
+            "house": false,
+            "id": 1212,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "https://wei.sos.wa.gov/agency/osos/en/press_and_research/previouselections/2007/primary/pages/default.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1212/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-08-21",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

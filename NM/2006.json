@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.state.nm.us/uploads/files/Election%20Results/StatewideGen06.pdf",
+            "direct_links": [
+                "http://www.sos.state.nm.us/uploads/files/Election%20Results/StatewideGen06.pdf"
+            ],
+            "end_date": "2006-11-07",
+            "gov": true,
+            "house": true,
+            "id": 1153,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/Past_Election_Results.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1153/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.state.nm.us/uploads/files/Election%20Results/StatewidePrim06.pdf",
+            "direct_links": [
+                "http://www.sos.state.nm.us/uploads/files/Election%20Results/StatewidePrim06.pdf"
+            ],
+            "end_date": "2006-06-06",
+            "gov": true,
+            "house": true,
+            "id": 1154,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/Past_Election_Results.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1154/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-06-06",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

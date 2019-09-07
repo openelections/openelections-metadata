@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.state.ms.us/elections/2004/General/"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 1250,
+            "organization": {
+                "city": "Jackson",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 53,
+                "name": "Mississippi Secretary of State",
+                "resource_uri": "/api/v1/organization/53/",
+                "slug": "mississippi-secretary-state",
+                "state": "MS",
+                "street": "401 Mississippi Street",
+                "url": "http://www.sos.ms.gov/elections.aspx"
+            },
+            "portal_link": "http://www.sos.state.ms.us/elections/2004/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1250/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Mississippi",
+                "postal": "MS",
+                "resource_uri": "/api/v1/state/MS/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.state.ms.us/elections/2004/Primary/"
+            ],
+            "end_date": "2004-03-09",
+            "gov": false,
+            "house": true,
+            "id": 1251,
+            "organization": {
+                "city": "Jackson",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 53,
+                "name": "Mississippi Secretary of State",
+                "resource_uri": "/api/v1/organization/53/",
+                "slug": "mississippi-secretary-state",
+                "state": "MS",
+                "street": "401 Mississippi Street",
+                "url": "http://www.sos.ms.gov/elections.aspx"
+            },
+            "portal_link": "http://www.sos.state.ms.us/elections/2004/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1251/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-03-09",
+            "state": {
+                "name": "Mississippi",
+                "postal": "MS",
+                "resource_uri": "/api/v1/state/MS/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

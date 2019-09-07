@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=40"
+            ],
+            "end_date": "2013-04-09",
+            "gov": false,
+            "house": true,
+            "id": 1229,
+            "organization": {
+                "city": "Chicago",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ildir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 23,
+                "name": "Illinois State Board of Elections",
+                "resource_uri": "/api/v1/organization/23/",
+                "slug": "illinois-state-board-elections",
+                "state": "IL",
+                "street": "100 W. Randolph,Suite 14-100",
+                "url": "http://www.elections.il.gov/"
+            },
+            "portal_link": "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=40",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1229/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2013-04-09",
+            "state": {
+                "name": "Illinois",
+                "postal": "IL",
+                "resource_uri": "/api/v1/state/IL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=38"
+            ],
+            "end_date": "2013-02-26",
+            "gov": false,
+            "house": true,
+            "id": 166,
+            "organization": {
+                "city": "Chicago",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ildir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 23,
+                "name": "Illinois State Board of Elections",
+                "resource_uri": "/api/v1/organization/23/",
+                "slug": "illinois-state-board-elections",
+                "state": "IL",
+                "street": "100 W. Randolph,Suite 14-100",
+                "url": "http://www.elections.il.gov/"
+            },
+            "portal_link": "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=38",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/166/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2013-02-26",
+            "state": {
+                "name": "Illinois",
+                "postal": "IL",
+                "resource_uri": "/api/v1/state/IL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        }
+    ]
+}

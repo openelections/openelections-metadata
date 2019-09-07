@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.ks.gov/elections/elections_statistics.html",
+            "direct_links": [
+                "http://www.sos.ks.gov/elections/08elec/2008_general_president_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_general_us_senate_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_general_us_house_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_general_ks_senate_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_general_ks_house_official_results.xls"
+            ],
+            "end_date": "2008-11-04",
+            "gov": false,
+            "house": true,
+            "id": 733,
+            "organization": {
+                "city": "Topeka",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 15,
+                "name": "Kansas Secretary of State elections division",
+                "resource_uri": "/api/v1/organization/15/",
+                "slug": "kansas-secretary-state-elections-division",
+                "state": "KS",
+                "street": "Memorial Hall, 1st Floor 120 SW 10th Avenue",
+                "url": "http://www.sos.ks.gov/elections/elections_statistics.html"
+            },
+            "portal_link": "http://www.sos.ks.gov/elections/elections_statistics.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/733/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "Kansas",
+                "postal": "KS",
+                "resource_uri": "/api/v1/state/KS/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.ks.gov/elections/elections_statistics.html",
+            "direct_links": [
+                "http://www.sos.ks.gov/elections/08elec/2008_primary_us_senate_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_primary_us_house_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_primary_ks_senate_official_results.xls",
+                "http://www.sos.ks.gov/elections/08elec/2008_primary_ks_house_official_results.xls"
+            ],
+            "end_date": "2008-08-05",
+            "gov": false,
+            "house": true,
+            "id": 734,
+            "organization": {
+                "city": "Topeka",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 15,
+                "name": "Kansas Secretary of State elections division",
+                "resource_uri": "/api/v1/organization/15/",
+                "slug": "kansas-secretary-state-elections-division",
+                "state": "KS",
+                "street": "Memorial Hall, 1st Floor 120 SW 10th Avenue",
+                "url": "http://www.sos.ks.gov/elections/elections_statistics.html"
+            },
+            "portal_link": "http://www.sos.ks.gov/elections/elections_statistics.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "Kansas' primaries are closed for Republicans and semi-closed for Democrats (although that may change in 2014). Unaffiliated voters can vote in the Democratic party. \r\n\r\nAnd for either party, an unaffiliated voter can join the party on primary election day and vote in that same election.",
+            "primary_type": "other",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/734/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-08-05",
+            "state": {
+                "name": "Kansas",
+                "postal": "KS",
+                "resource_uri": "/api/v1/state/KS/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        }
+    ]
+}

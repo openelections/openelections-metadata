@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2015-05-19",
+            "gov": false,
+            "house": false,
+            "id": 1801,
+            "organization": {
+                "city": "Sacramento",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/cadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 7,
+                "name": "California Secretary of State",
+                "resource_uri": "/api/v1/organization/7/",
+                "slug": "california-secretary-state",
+                "state": "CA",
+                "street": "1500 11th Street",
+                "url": "http://www.sos.ca.gov/elections/"
+            },
+            "portal_link": "http://www.sos.ca.gov/elections/prior-elections/special-elections/2015-sd7/elections-results-general/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1801/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2015-05-19",
+            "state": {
+                "name": "California",
+                "postal": "CA",
+                "resource_uri": "/api/v1/state/CA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.ca.gov/elections/prior-elections/special-elections/2015-sd7/election-results-primary/"
+            ],
+            "end_date": "2015-03-17",
+            "gov": false,
+            "house": false,
+            "id": 1800,
+            "organization": {
+                "city": "Sacramento",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/cadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 7,
+                "name": "California Secretary of State",
+                "resource_uri": "/api/v1/organization/7/",
+                "slug": "california-secretary-state",
+                "state": "CA",
+                "street": "1500 11th Street",
+                "url": "http://www.sos.ca.gov/elections/"
+            },
+            "portal_link": "http://www.sos.ca.gov/elections/prior-elections/special-elections/2015-sd37/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1800/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2015-03-17",
+            "state": {
+                "name": "California",
+                "postal": "CA",
+                "resource_uri": "/api/v1/state/CA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

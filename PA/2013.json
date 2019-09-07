@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.electionreturns.state.pa.us/Default.aspx?EID=38&ESTID=3&CID=0&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1"
+            ],
+            "end_date": "2013-05-21",
+            "gov": false,
+            "house": false,
+            "id": 1312,
+            "organization": {
+                "city": "Harrisburg",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/padir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 29,
+                "name": "Pennsylvania Department of State",
+                "resource_uri": "/api/v1/organization/29/",
+                "slug": "pennsylvania-department-state",
+                "state": "PA",
+                "street": "302 North Office Building",
+                "url": "http://www.electionreturns.state.pa.us/"
+            },
+            "portal_link": "http://www.electionreturns.state.pa.us/Default.aspx?EID=0&ESTID=0&CID=0&OID=0&CDID=0&PID=0&DISTID=0&IsSpecial=1",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1312/",
+            "result_type": "unofficial",
+            "senate": false,
+            "special": true,
+            "start_date": "2013-05-21",
+            "state": {
+                "name": "Pennsylvania",
+                "postal": "PA",
+                "resource_uri": "/api/v1/state/PA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

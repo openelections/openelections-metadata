@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": false,
+            "county_level_status": "baked-raw",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.oregon.gov/elections/Documents/results/results-11-2004.pdf"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 1288,
+            "organization": {
+                "city": "Salem OR 97310",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 58,
+                "name": "Oregon Secretary of State, Elections Division",
+                "resource_uri": "/api/v1/organization/58/",
+                "slug": "oregon-secretary-state-elections-division",
+                "state": "OR",
+                "street": "Public Service Building Suite 501 255 Capitol St. NE",
+                "url": "http://sos.oregon.gov/elections/Pages/default.aspx"
+            },
+            "portal_link": "http://sos.oregon.gov/elections/Pages/electionhistory.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1288/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Oregon",
+                "postal": "OR",
+                "resource_uri": "/api/v1/state/OR/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Borasky, Edward"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.oregon.gov/elections/Documents/results/results-5-2004-partisan.pdf"
+            ],
+            "end_date": "2004-05-18",
+            "gov": false,
+            "house": true,
+            "id": 1289,
+            "organization": {
+                "city": "Salem OR 97310",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 58,
+                "name": "Oregon Secretary of State, Elections Division",
+                "resource_uri": "/api/v1/organization/58/",
+                "slug": "oregon-secretary-state-elections-division",
+                "state": "OR",
+                "street": "Public Service Building Suite 501 255 Capitol St. NE",
+                "url": "http://sos.oregon.gov/elections/Pages/default.aspx"
+            },
+            "portal_link": "http://sos.oregon.gov/elections/Pages/electionhistory.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1289/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-05-18",
+            "state": {
+                "name": "Oregon",
+                "postal": "OR",
+                "resource_uri": "/api/v1/state/OR/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Borasky, Edward"
+        }
+    ]
+}

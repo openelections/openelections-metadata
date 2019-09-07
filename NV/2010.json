@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.nvsos.gov/soselectionpages/results/2010STatewideGeneral/ElectionSummary.aspx",
+            "direct_links": [
+                "http://www.nvsos.gov/soselectionpages/results/2010STatewideGeneral/ElectionSummary.aspx"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 320,
+            "organization": {
+                "city": "Carson City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 27,
+                "name": "Nevada Secretary of State",
+                "resource_uri": "/api/v1/organization/27/",
+                "slug": "nevada-secretary-state",
+                "state": "NV",
+                "street": "101 North Carson Street",
+                "url": "http://nvsos.gov/"
+            },
+            "portal_link": "http://www.nvsos.gov/index.aspx?page=93",
+            "precinct_level": false,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/320/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Nevada",
+                "postal": "NV",
+                "resource_uri": "/api/v1/state/NV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hill, Dan"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.nvsos.gov/soselectionpages/results/2010STatewidePrimary/ElectionSummary.aspx",
+            "direct_links": [
+                "http://www.nvsos.gov/soselectionpages/results/2010STatewidePrimary/ElectionSummary.aspx"
+            ],
+            "end_date": "2010-06-08",
+            "gov": true,
+            "house": true,
+            "id": 321,
+            "organization": {
+                "city": "Carson City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 27,
+                "name": "Nevada Secretary of State",
+                "resource_uri": "/api/v1/organization/27/",
+                "slug": "nevada-secretary-state",
+                "state": "NV",
+                "street": "101 North Carson Street",
+                "url": "http://nvsos.gov/"
+            },
+            "portal_link": "http://www.nvsos.gov/index.aspx?page=93",
+            "precinct_level": false,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/321/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-06-08",
+            "state": {
+                "name": "Nevada",
+                "postal": "NV",
+                "resource_uri": "/api/v1/state/NV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hill, Dan"
+        }
+    ]
+}

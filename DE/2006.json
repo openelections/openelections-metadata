@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elections.delaware.gov/archive/elect06/elect06_general/data/election.txt",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect06/elect06_general/html/elect06_general.edrd.shtml"
+            ],
+            "end_date": "2006-11-07",
+            "gov": false,
+            "house": true,
+            "id": 652,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/652/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hill, Dan"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://elections.delaware.gov/archive/elect06/elect06_primary/elect06_primary_office.shtml",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect06/elect06_primary/elect06_primary_edrd.shtml"
+            ],
+            "end_date": "2006-09-12",
+            "gov": false,
+            "house": true,
+            "id": 651,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/651/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-09-12",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hill, Dan"
+        }
+    ]
+}

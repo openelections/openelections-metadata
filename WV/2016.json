@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://services.sos.wv.gov/apps/elections/results/download.aspx?year=2016&eid=23",
+                "http://services.sos.wv.gov/apps/elections/results/readfile.aspx?eid=23&type=StateCountyTotals&format=csv"
+            ],
+            "end_date": "2016-11-08",
+            "gov": true,
+            "house": true,
+            "id": 1781,
+            "organization": {
+                "city": "Charleston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 51,
+                "name": "West Virginia Secretary of State",
+                "resource_uri": "/api/v1/organization/51/",
+                "slug": "west-virginia-secretary-state",
+                "state": "WV",
+                "street": "1900 Kanawha Boulevard East",
+                "url": "http://apps.sos.wv.gov/elections/results/"
+            },
+            "portal_link": "http://services.sos.wv.gov/apps/elections/results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1781/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "West Virginia",
+                "postal": "WV",
+                "resource_uri": "/api/v1/state/WV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://services.sos.wv.gov/apps/elections/results/download.aspx?year=2016&eid=22",
+                "http://services.sos.wv.gov/apps/elections/results/readfile.aspx?eid=22&type=StateCountyTotals&format=csv"
+            ],
+            "end_date": "2016-05-10",
+            "gov": true,
+            "house": true,
+            "id": 1782,
+            "organization": {
+                "city": "Charleston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 51,
+                "name": "West Virginia Secretary of State",
+                "resource_uri": "/api/v1/organization/51/",
+                "slug": "west-virginia-secretary-state",
+                "state": "WV",
+                "street": "1900 Kanawha Boulevard East",
+                "url": "http://apps.sos.wv.gov/elections/results/"
+            },
+            "portal_link": "http://services.sos.wv.gov/apps/elections/results/Default.aspx?year=2016&eid=22",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1782/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2016-05-10",
+            "state": {
+                "name": "West Virginia",
+                "postal": "WV",
+                "resource_uri": "/api/v1/state/WV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

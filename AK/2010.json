@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.alaska.gov/results/10GENR/data/resultsWI.htm",
+                "http://www.elections.alaska.gov/results/10GENR/data/resultsOF.htm"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 843,
+            "organization": {
+                "city": "Juneau",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/akdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 47,
+                "name": "Alaska Division of Elections",
+                "resource_uri": "/api/v1/organization/47/",
+                "slug": "alaska-division-elections",
+                "state": "AK",
+                "street": "PO Box 110017",
+                "url": "http://www.elections.alaska.gov/"
+            },
+            "portal_link": "http://www.elections.alaska.gov/ei_return_2010_GENR.php",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/843/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Alaska",
+                "postal": "AK",
+                "resource_uri": "/api/v1/state/AK/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Bycoffe, Aaron "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.elections.alaska.gov/results/10PRIM/data/results.txt",
+            "direct_links": [
+                "http://www.elections.alaska.gov/results/10PRIM/data/results.txt"
+            ],
+            "end_date": "2010-08-24",
+            "gov": true,
+            "house": true,
+            "id": 844,
+            "organization": {
+                "city": "Juneau",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/akdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 47,
+                "name": "Alaska Division of Elections",
+                "resource_uri": "/api/v1/organization/47/",
+                "slug": "alaska-division-elections",
+                "state": "AK",
+                "street": "PO Box 110017",
+                "url": "http://www.elections.alaska.gov/"
+            },
+            "portal_link": "http://www.elections.alaska.gov/ei_return_2010_PRIM.php",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "Alaska's candidates for lieutenant governor run separately in the primary election, but with gubernatorial candidates as a slate in the general election.",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/844/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-08-24",
+            "state": {
+                "name": "Alaska",
+                "postal": "AK",
+                "resource_uri": "/api/v1/state/AK/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Bycoffe, Aaron "
+        }
+    ]
+}

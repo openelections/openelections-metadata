@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:reports=1&elecid=201",
+            "direct_links": [
+                "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:reports=1&elecid=201"
+            ],
+            "end_date": "2009-12-08",
+            "gov": false,
+            "house": false,
+            "id": 23,
+            "organization": {
+                "city": "Little Rock",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 26,
+                "name": "Arkansas Secretary of State",
+                "resource_uri": "/api/v1/organization/26/",
+                "slug": "arkansas-secretary-state",
+                "state": "AR",
+                "street": "State Capitol, RM 256",
+                "url": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:choose_elec=1"
+            },
+            "portal_link": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:choose_elec=1",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/23/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2009-12-08",
+            "state": {
+                "name": "Arkansas",
+                "postal": "AR",
+                "resource_uri": "/api/v1/state/AR/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:reports=1&elecid=191",
+            "direct_links": [
+                "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:reports=1&elecid=191"
+            ],
+            "end_date": "2009-10-13",
+            "gov": false,
+            "house": false,
+            "id": 24,
+            "organization": {
+                "city": "Little Rock",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 26,
+                "name": "Arkansas Secretary of State",
+                "resource_uri": "/api/v1/organization/26/",
+                "slug": "arkansas-secretary-state",
+                "state": "AR",
+                "street": "State Capitol, RM 256",
+                "url": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:choose_elec=1"
+            },
+            "portal_link": "http://www.sos.arkansas.gov/electionresults/index.php?ac:show:choose_elec=1",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/24/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2009-10-13",
+            "state": {
+                "name": "Arkansas",
+                "postal": "AR",
+                "resource_uri": "/api/v1/state/AR/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        }
+    ]
+}

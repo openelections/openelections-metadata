@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/2011-results/2011-official-gen-elect-state-senate-results-121411.pdf",
+                "http://nj.gov/state/elections/2011-results/2011-official-gen-elect-gen-assembly-results-121411.pdf"
+            ],
+            "end_date": "2011-11-08",
+            "gov": false,
+            "house": false,
+            "id": 921,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/921/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2011-11-08",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/2011-results/2011-primary-results-state-senate-official-0815.pdf",
+                "http://nj.gov/state/elections/2011-results/2011-primary-results-general-assembly-official-0815.pdf"
+            ],
+            "end_date": "2011-06-07",
+            "gov": false,
+            "house": false,
+            "id": 922,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/922/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2011-06-07",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        }
+    ]
+}

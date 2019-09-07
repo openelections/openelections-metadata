@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2005_Official_General_Election-Governor_tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2005_Official_General_Assembly_tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2005_Official_Special_State_Senate_tallies.pdf"
+            ],
+            "end_date": "2005-11-08",
+            "gov": true,
+            "house": false,
+            "id": 940,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/940/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2005-11-08",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2005_primary_official_results-gov.pdf",
+                "http://nj.gov/state/elections/election-results/2005_primary_official_results-gen-assem.pdf"
+            ],
+            "end_date": "2005-06-07",
+            "gov": true,
+            "house": false,
+            "id": 941,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/941/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2005-06-07",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media.asp",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ussenatesw.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ussenatecty.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ussenateCG.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ussenatepct.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ushousedst.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/ushousepct.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/stsenatedst.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/stsenatepct.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/sthousedst.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/sthousepct.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/Governor.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/governorCG.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/governorCty.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/governorpct.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/secofstate.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/attorneygen.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/allracesbycounty.txt?t=70867.03",
+                "http://minnesotaelectionresults.sos.state.mn.us/20061107/media/stateracespct.txt?t=70867.03"
+            ],
+            "end_date": "2006-11-07",
+            "gov": true,
+            "house": false,
+            "id": 1445,
+            "organization": {
+                "city": "Minneapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mndir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 8,
+                "name": "Minnesota Secretary of State",
+                "resource_uri": "/api/v1/organization/8/",
+                "slug": "minnesota-secretary-state",
+                "state": "MN",
+                "street": "180 State Office Building, 100 Rev. Dr. Martin Luther King Jr. Blvd.",
+                "url": "http://www.sos.state.mn.us/"
+            },
+            "portal_link": "http://mnvotesinfo.sos.state.mn.us/election-results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1445/",
+            "result_type": "unofficial",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "Minnesota",
+                "postal": "MN",
+                "resource_uri": "/api/v1/state/MN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.nm.us/default.aspx?eid=2",
+                "http://www.sos.state.nm.us/uploads/files/Statewide%20by%20County%20Canvass.pdf"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1741,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/2014.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1741/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.nm.us/?eid=1",
+                "http://www.sos.state.nm.us/uploads/files/2014%20Primary%20Statewide%20summary.pdf"
+            ],
+            "end_date": "2014-06-03",
+            "gov": true,
+            "house": true,
+            "id": 1742,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/2014.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1742/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-06-03",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

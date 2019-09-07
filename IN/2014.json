@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.in.gov/apps/sos/election/general/general2014"
+            ],
+            "end_date": "2014-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1703,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/apps/sos/election/general/general2014",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1703/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.in.gov/apps/sos/primary/sos_primary14",
+                "http://www.in.gov/apps/sos/primary/sos_primary14?page=office&countyID=-1&partyID=-1&officeID=5&districtID=-1&districtshortviewID=-1&candidate=",
+                "http://www.in.gov/apps/sos/primary/sos_primary14?page=office&countyID=-1&partyID=-1&officeID=10&districtID=-1&districtshortviewID=-1&candidate=",
+                "http://www.in.gov/apps/sos/primary/sos_primary14?page=office&countyID=-1&partyID=-1&officeID=1&districtID=-1&districtshortviewID=-1&candidate="
+            ],
+            "end_date": "2014-05-06",
+            "gov": true,
+            "house": true,
+            "id": 1433,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/sos/elections/2400.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1433/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-05-06",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

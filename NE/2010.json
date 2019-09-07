@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.ne.gov/elec/pdf/2010%20Gen%20Canvass%20Book%2011-30-Final.pdf",
+            "direct_links": [
+                "http://www.sos.ne.gov/elec/pdf/2010%20Gen%20Canvass%20Book%2011-30-Final.pdf"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": false,
+            "id": 1180,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1180/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.ne.gov/elec/2010/pdf/Canvas%20PR10%20After%20Recount%20Final.pdf",
+            "direct_links": [
+                "http://www.sos.ne.gov/elec/2010/pdf/Canvas%20PR10%20After%20Recount%20Final.pdf"
+            ],
+            "end_date": "2010-05-11",
+            "gov": true,
+            "house": true,
+            "id": 1181,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1181/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-05-11",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

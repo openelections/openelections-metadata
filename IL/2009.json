@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.elections.il.gov/electioninformation/VoteTotalsList.aspx?ElectionType=SE&ElectionID=27&SearchType=OfficeSearch&OfficeID=4765&QueryType=Office&",
+            "direct_links": [
+                "http://www.elections.il.gov/electioninformation/VoteTotalsList.aspx?ElectionType=SE&ElectionID=27&SearchType=OfficeSearch&OfficeID=4765&QueryType=Office&"
+            ],
+            "end_date": "2009-04-07",
+            "gov": false,
+            "house": true,
+            "id": 172,
+            "organization": {
+                "city": "Chicago",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ildir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 23,
+                "name": "Illinois State Board of Elections",
+                "resource_uri": "/api/v1/organization/23/",
+                "slug": "illinois-state-board-elections",
+                "state": "IL",
+                "street": "100 W. Randolph,Suite 14-100",
+                "url": "http://www.elections.il.gov/"
+            },
+            "portal_link": "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=27",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/172/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2009-04-07",
+            "state": {
+                "name": "Illinois",
+                "postal": "IL",
+                "resource_uri": "/api/v1/state/IL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Novikova, Anna"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.elections.il.gov/electioninformation/VoteTotalsList.aspx?ElectionType=SP&ElectionID=26&SearchType=OfficeSearch&OfficeID=4764&QueryType=Office&",
+            "direct_links": [
+                "http://www.elections.il.gov/electioninformation/VoteTotalsList.aspx?ElectionType=SP&ElectionID=26&SearchType=OfficeSearch&OfficeID=4764&QueryType=Office&"
+            ],
+            "end_date": "2009-03-03",
+            "gov": false,
+            "house": true,
+            "id": 173,
+            "organization": {
+                "city": "Chicago",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ildir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 23,
+                "name": "Illinois State Board of Elections",
+                "resource_uri": "/api/v1/organization/23/",
+                "slug": "illinois-state-board-elections",
+                "state": "IL",
+                "street": "100 W. Randolph,Suite 14-100",
+                "url": "http://www.elections.il.gov/"
+            },
+            "portal_link": "http://www.elections.il.gov/electioninformation/VoteTotalSearch.aspx?id=26",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/173/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2009-03-03",
+            "state": {
+                "name": "Illinois",
+                "postal": "IL",
+                "resource_uri": "/api/v1/state/IL/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Novikova, Anna"
+        }
+    ]
+}

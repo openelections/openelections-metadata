@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2004-official_2004_gen_pres_results.pdf",
+                "http://nj.gov/state/elections/election-results/2004-official_2004_gen_elect_congressional_results.pdf",
+                "http://nj.gov/state/elections/election-results/2004-official_special_senate_gen_results.pdf"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 946,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/946/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Jones, Coulter"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2004pri-elect_pres-candidate_tally.pdf",
+                "http://nj.gov/state/elections/election-results/2004pri-elect_house-candidate_tally.pdf",
+                "http://nj.gov/state/elections/election-results/2004pri-elect-rep-delegates-at-large-candidate_tally.pdf",
+                "http://nj.gov/state/elections/election-results/2004pri-elect-_rep-district-delegate-candidate_tally.pdf",
+                "http://nj.gov/state/elections/election-results/2004pri-elect-_dem-district-delegate-candidate_tally.pdf"
+            ],
+            "end_date": "2004-06-08",
+            "gov": false,
+            "house": true,
+            "id": 951,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/951/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2004-06-08",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Jones, Coulter"
+        }
+    ]
+}

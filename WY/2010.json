@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://soswy.state.wy.us/Elections/Docs/2010/2010GeneralResults.aspx",
+            "direct_links": [
+                "http://soswy.state.wy.us/Elections/Docs/2010/2010GeneralResults.aspx"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 601,
+            "organization": {
+                "city": "Cheyenne",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 38,
+                "name": "Wyoming Secretary of State",
+                "resource_uri": "/api/v1/organization/38/",
+                "slug": "wyoming-secretary-state",
+                "state": "WY",
+                "street": "200 W. 24th St.",
+                "url": "http://soswy.state.wy.us/Elections/Elections.aspx"
+            },
+            "portal_link": "http://soswy.state.wy.us/Elections/ElectionResults.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/601/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Wyoming",
+                "postal": "WY",
+                "resource_uri": "/api/v1/state/WY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://soswy.state.wy.us/Elections/Docs/2010/2010PrimaryResults.aspx",
+            "direct_links": [
+                "http://soswy.state.wy.us/Elections/Docs/2010/2010PrimaryResults.aspx"
+            ],
+            "end_date": "2010-08-17",
+            "gov": true,
+            "house": true,
+            "id": 603,
+            "organization": {
+                "city": "Cheyenne",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 38,
+                "name": "Wyoming Secretary of State",
+                "resource_uri": "/api/v1/organization/38/",
+                "slug": "wyoming-secretary-state",
+                "state": "WY",
+                "street": "200 W. 24th St.",
+                "url": "http://soswy.state.wy.us/Elections/Elections.aspx"
+            },
+            "portal_link": "http://soswy.state.wy.us/Elections/ElectionResults.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/603/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-08-17",
+            "state": {
+                "name": "Wyoming",
+                "postal": "WY",
+                "resource_uri": "/api/v1/state/WY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

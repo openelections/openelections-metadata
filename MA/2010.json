@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.sec.state.ma.us/ele/elepdf/rov10.pdf",
+            "direct_links": [
+                "http://www.sec.state.ma.us/ele/elepdf/rov10.pdf"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 1196,
+            "organization": {
+                "city": "Boston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/madir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 55,
+                "name": "Massachusetts Secretary of the Commonwealth - Elections Division",
+                "resource_uri": "/api/v1/organization/55/",
+                "slug": "massachusetts-secretary-commonwealth-elections-div",
+                "state": "MA",
+                "street": "McCormack Building, Room 1705, One Ashburton Place",
+                "url": "http://www.sec.state.ma.us/"
+            },
+            "portal_link": "http://www.sec.state.ma.us/ele/ele10/ele10idx.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1196/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Massachusetts",
+                "postal": "MA",
+                "resource_uri": "/api/v1/state/MA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.sec.state.ma.us/ele/ele10/primary_results10.htm",
+            "direct_links": [
+                "http://www.sec.state.ma.us/ele/ele10/primary_results10.htm"
+            ],
+            "end_date": "2010-09-14",
+            "gov": true,
+            "house": true,
+            "id": 1195,
+            "organization": {
+                "city": "Boston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/madir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 55,
+                "name": "Massachusetts Secretary of the Commonwealth - Elections Division",
+                "resource_uri": "/api/v1/organization/55/",
+                "slug": "massachusetts-secretary-commonwealth-elections-div",
+                "state": "MA",
+                "street": "McCormack Building, Room 1705, One Ashburton Place",
+                "url": "http://www.sec.state.ma.us/"
+            },
+            "portal_link": "http://www.sec.state.ma.us/ele/ele10/ele10idx.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1195/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-09-14",
+            "state": {
+                "name": "Massachusetts",
+                "postal": "MA",
+                "resource_uri": "/api/v1/state/MA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

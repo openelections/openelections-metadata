@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2013-11-05",
+            "gov": false,
+            "house": false,
+            "id": 1132,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 50,
+                "name": "New York State Board of Elections",
+                "resource_uri": "/api/v1/organization/50/",
+                "slug": "nys-board-elections",
+                "state": "NY",
+                "street": "",
+                "url": "http://www.elections.ny.gov/"
+            },
+            "portal_link": "http://www.elections.ny.gov/2013ElectionResults.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1132/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2013-11-05",
+            "state": {
+                "name": "New York",
+                "postal": "NY",
+                "resource_uri": "/api/v1/state/NY/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

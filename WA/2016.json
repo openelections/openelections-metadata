@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://results.vote.wa.gov/results/20161108/export/20161108_AllCounties.csv",
+                "http://results.vote.wa.gov/results/20161108/export/20161108_AllStatePrecincts.csv"
+            ],
+            "end_date": "2016-11-08",
+            "gov": true,
+            "house": true,
+            "id": 1772,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "http://results.vote.wa.gov/results/20161108/Export.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1772/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://results.vote.wa.gov/results/20160802/export/20160802_AllCounties.csv",
+                "http://results.vote.wa.gov/results/20160802/export/20160802_AllStatePrecincts.csv"
+            ],
+            "end_date": "2016-08-02",
+            "gov": true,
+            "house": true,
+            "id": 1773,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "http://results.vote.wa.gov/results/20160802/Export.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1773/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2016-08-02",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

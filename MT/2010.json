@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/elections/Archives/2010s/2010/2010_General_Election_Official_Statewide_Canvass.pdf",
+                "http://electionresults.sos.mt.gov/resultsCountyList.aspx?eid=2",
+                "http://sos.mt.gov/elections/Archives/2010s/2010/2010_General_Election_Offiical_Legislative_Canvass.pdf",
+                "http://sos.mt.gov/elections/Archives/2010s/2010/2010_General_%20Election_Official_Legislative_Recount_Canvass.pdf"
+            ],
+            "end_date": "2010-11-02",
+            "gov": false,
+            "house": true,
+            "id": 758,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/758/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/elections/Archives/2010s/2010/2010_Primary_Official_Statewide_Canvass.pdf",
+                "http://electionresults.sos.mt.gov/resultsCountyList.aspx?eid=1",
+                "http://sos.mt.gov/elections/Archives/2010s/2010/2010_Primary_Official_Legislative_Canvass.pdf"
+            ],
+            "end_date": "2010-06-08",
+            "gov": false,
+            "house": true,
+            "id": 759,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/759/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2010-06-08",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

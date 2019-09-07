@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.ri.gov/election/results/2010/general_election/data/",
+            "direct_links": [
+                "http://www.ri.gov/election/results/2010/general_election/data/rigen2010l.zip"
+            ],
+            "end_date": "2010-11-02",
+            "gov": true,
+            "house": true,
+            "id": 384,
+            "organization": {
+                "city": "Providence ",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ridir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 6,
+                "name": "Rhode Island Board of Elections",
+                "resource_uri": "/api/v1/organization/6/",
+                "slug": "rhode-island-board-elections",
+                "state": "RI",
+                "street": "50 Branch Avenue",
+                "url": "http://www.ri.gov/election/results/2012/general_election/"
+            },
+            "portal_link": "http://www.elections.state.ri.us/elections/preresults/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/384/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "Rhode Island",
+                "postal": "RI",
+                "resource_uri": "/api/v1/state/RI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Schnadt, Sara"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.ri.gov/election/results/2010/statewide_primary/data/",
+            "direct_links": [
+                "http://www.ri.gov/election/results/2010/statewide_primary/data/ripri2010l.zip"
+            ],
+            "end_date": "2010-09-23",
+            "gov": true,
+            "house": true,
+            "id": 385,
+            "organization": {
+                "city": "Providence ",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ridir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 6,
+                "name": "Rhode Island Board of Elections",
+                "resource_uri": "/api/v1/organization/6/",
+                "slug": "rhode-island-board-elections",
+                "state": "RI",
+                "street": "50 Branch Avenue",
+                "url": "http://www.ri.gov/election/results/2012/general_election/"
+            },
+            "portal_link": "http://www.elections.state.ri.us/elections/preresults/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/385/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-09-23",
+            "state": {
+                "name": "Rhode Island",
+                "postal": "RI",
+                "resource_uri": "/api/v1/state/RI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Schnadt, Sara"
+        }
+    ]
+}

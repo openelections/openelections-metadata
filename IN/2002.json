@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.in.gov/sos/elections/files/2002_ELECTION_BOOKLET.pdf",
+            "direct_links": [
+                "http://www.in.gov/sos/elections/files/2002_ELECTION_BOOKLET.pdf"
+            ],
+            "end_date": "2002-11-05",
+            "gov": false,
+            "house": true,
+            "id": 587,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/sos/elections/2400.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/587/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Schaver, Mark "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.in.gov/sos/elections/files/2002_ELECTION_BOOKLET.pdf",
+            "direct_links": [
+                "http://www.in.gov/sos/elections/files/2002_ELECTION_BOOKLET.pdf"
+            ],
+            "end_date": "2002-05-07",
+            "gov": false,
+            "house": true,
+            "id": 586,
+            "organization": {
+                "city": "Indianapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/indir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 36,
+                "name": "Indiana Election Division",
+                "resource_uri": "/api/v1/organization/36/",
+                "slug": "indiana-election-division",
+                "state": "IN",
+                "street": "302 West Washington Street, Room E-204",
+                "url": "http://www.in.gov/sos/elections/"
+            },
+            "portal_link": "http://www.in.gov/sos/elections/2400.htm",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/586/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-05-07",
+            "state": {
+                "name": "Indiana",
+                "postal": "IN",
+                "resource_uri": "/api/v1/state/IN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Schaver, Mark "
+        }
+    ]
+}

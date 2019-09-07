@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [],
+            "end_date": "2014-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1545,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://electionresults.sos.ne.gov/default.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1545/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.ne.gov/elec/2014/pdf/2014-Final-Canvas-PR14-After-6-11-14-Recount.pdf"
+            ],
+            "end_date": "2014-05-13",
+            "gov": false,
+            "house": true,
+            "id": 1546,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/2014/elections.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1546/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-05-13",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

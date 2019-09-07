@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.nvsos.gov/SOSelectionPages/results/2004General/ElectionSummary.aspx",
+            "direct_links": [
+                "http://www.nvsos.gov/SOSelectionPages/results/2004General/ElectionSummary.aspx"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 326,
+            "organization": {
+                "city": "Carson City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 27,
+                "name": "Nevada Secretary of State",
+                "resource_uri": "/api/v1/organization/27/",
+                "slug": "nevada-secretary-state",
+                "state": "NV",
+                "street": "101 North Carson Street",
+                "url": "http://nvsos.gov/"
+            },
+            "portal_link": "http://www.nvsos.gov/index.aspx?page=93",
+            "precinct_level": false,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/326/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Nevada",
+                "postal": "NV",
+                "resource_uri": "/api/v1/state/NV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hill, Dan"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.nvsos.gov/SOSelectionPages/results/2004Primary/ElectionSummary.aspx",
+            "direct_links": [
+                "http://www.nvsos.gov/SOSelectionPages/results/2004Primary/ElectionSummary.aspx"
+            ],
+            "end_date": "2004-09-07",
+            "gov": false,
+            "house": true,
+            "id": 327,
+            "organization": {
+                "city": "Carson City",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 27,
+                "name": "Nevada Secretary of State",
+                "resource_uri": "/api/v1/organization/27/",
+                "slug": "nevada-secretary-state",
+                "state": "NV",
+                "street": "101 North Carson Street",
+                "url": "http://nvsos.gov/"
+            },
+            "portal_link": "http://www.nvsos.gov/index.aspx?page=93",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/327/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-09-07",
+            "state": {
+                "name": "Nevada",
+                "postal": "NV",
+                "resource_uri": "/api/v1/state/NV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hill, Dan"
+        }
+    ]
+}

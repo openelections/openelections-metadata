@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.gab.wi.gov/sites/default/files/2007_SpringElection_SupCt_WardbyWard.xls",
+                "http://www.gab.wi.gov/sites/default/files/2007_SpringElection_CtofAppeals_WardbyWard.xls",
+                "http://www.gab.wi.gov/sites/default/files/2007_SpringElection_CircuitCt_WardbyWard.xls"
+            ],
+            "end_date": "2007-04-03",
+            "gov": false,
+            "house": false,
+            "id": 434,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/widir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 17,
+                "name": "Wisconsin Elections Commission",
+                "resource_uri": "/api/v1/organization/17/",
+                "slug": "wi-gab",
+                "state": "WI",
+                "street": "",
+                "url": "http://elections.wi.gov/"
+            },
+            "portal_link": "http://www.gab.wi.gov/elections-voting/results/2007/spring-election",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/434/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-04-03",
+            "state": {
+                "name": "Wisconsin",
+                "postal": "WI",
+                "resource_uri": "/api/v1/state/WI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Paulson, Eric"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.gab.wi.gov/sites/default/files/2007_SpringElection_Primary_Sup.Ct_WardbyWard.xls",
+                "http://www.gab.wi.gov/sites/default/files/2007_SpringElection_Primary_CircuitCt_WardbyWard.xls"
+            ],
+            "end_date": "2007-02-20",
+            "gov": false,
+            "house": false,
+            "id": 435,
+            "organization": {
+                "city": "",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/widir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 17,
+                "name": "Wisconsin Elections Commission",
+                "resource_uri": "/api/v1/organization/17/",
+                "slug": "wi-gab",
+                "state": "WI",
+                "street": "",
+                "url": "http://elections.wi.gov/"
+            },
+            "portal_link": "http://www.gab.wi.gov/elections-voting/results/2007/spring-primary",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/435/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-02-20",
+            "state": {
+                "name": "Wisconsin",
+                "postal": "WI",
+                "resource_uri": "/api/v1/state/WI/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Vestal, Alan James"
+        }
+    ]
+}

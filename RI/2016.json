@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.elections.state.ri.us/publications/Election_Publications/Election_Info/LocalElections/01-05-15_Senate_11.pdf"
+            ],
+            "end_date": "2016-01-05",
+            "gov": false,
+            "house": false,
+            "id": 1693,
+            "organization": {
+                "city": "Providence ",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ridir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 6,
+                "name": "Rhode Island Board of Elections",
+                "resource_uri": "/api/v1/organization/6/",
+                "slug": "rhode-island-board-elections",
+                "state": "RI",
+                "street": "50 Branch Avenue",
+                "url": "http://www.ri.gov/election/results/2012/general_election/"
+            },
+            "portal_link": "http://www.elections.state.ri.us/elections/preresults/localresults.php",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1693/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2016-01-05",
+            "state": {
+                "name": "Rhode Island",
+                "postal": "RI",
+                "resource_uri": "/api/v1/state/RI/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

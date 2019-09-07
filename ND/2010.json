@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://results.sos.nd.gov/resultsSW.aspx?eid=22&text=Race&type=SW&map=CTY",
+            "direct_links": [
+                "http://results.sos.nd.gov/resultsSW.aspx?eid=22&text=Race&type=SW&map=CTY",
+                "http://results.sos.nd.gov/resultsSW.aspx?eid=22&text=Race&type=LG&map=DIST",
+                "http://results.sos.nd.gov/resultsCountyList.aspx?eid=22&text=Race&type=CTYSPEC&map=CTY"
+            ],
+            "end_date": "2010-11-02",
+            "gov": false,
+            "house": true,
+            "id": 1166,
+            "organization": {
+                "city": "Bismarck",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 56,
+                "name": "North Dakota  - Secretary of State",
+                "resource_uri": "/api/v1/organization/56/",
+                "slug": "north-dakota-secretary-state",
+                "state": "ND",
+                "street": "600 East Boulevard Avenue, Dept. 108",
+                "url": "https://vip.sos.nd.gov/PortalList.aspx"
+            },
+            "portal_link": "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=62&ptlPKID=4",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1166/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-11-02",
+            "state": {
+                "name": "North Dakota",
+                "postal": "ND",
+                "resource_uri": "/api/v1/state/ND/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://results.sos.nd.gov/resultsSW.aspx?eid=21&text=Race&type=SW&map=CTY",
+                "http://results.sos.nd.gov/resultsSW.aspx?eid=21&text=Race&type=LG&map=DIST",
+                "http://results.sos.nd.gov/resultsCountyList.aspx?eid=21&text=Race&type=CTYSPEC&map=CTY"
+            ],
+            "end_date": "2010-06-08",
+            "gov": false,
+            "house": true,
+            "id": 1320,
+            "organization": {
+                "city": "Bismarck",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 56,
+                "name": "North Dakota  - Secretary of State",
+                "resource_uri": "/api/v1/organization/56/",
+                "slug": "north-dakota-secretary-state",
+                "state": "ND",
+                "street": "600 East Boulevard Avenue, Dept. 108",
+                "url": "https://vip.sos.nd.gov/PortalList.aspx"
+            },
+            "portal_link": "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=62&ptlPKID=4",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "See https://vip.sos.nd.gov/pdfs/Portals/votereg.pdf\r\n\r\nNorth Dakota is the only state without voter registration. \r\n \r\nAlthough North Dakota was one of the first states to adopt voter registration prior to the turn of the century, it abolished it in 1951. It is also worth noting that North Dakota law still provides cities with the ability to register voters for city elections",
+            "primary_type": "semi-open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1320/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2010-06-08",
+            "state": {
+                "name": "North Dakota",
+                "postal": "ND",
+                "resource_uri": "/api/v1/state/ND/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

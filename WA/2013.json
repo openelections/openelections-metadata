@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://vote.wa.gov/results/20131105/export/20131105_AllState_20131210_0314.csv",
+                "http://vote.wa.gov/results/20131105/export/20131105_AllCounties_20131210_0314.csv",
+                "http://vote.wa.gov/results/20131105/export/20131105_AllStatePrecincts_20131210_0314.csv"
+            ],
+            "end_date": "2013-11-05",
+            "gov": false,
+            "house": false,
+            "id": 1224,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "https://wei.sos.wa.gov/agency/osos/en/press_and_research/PreviousElections/2013/General-Election/Pages/Results.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1224/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2013-11-05",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "",
+            "direct_links": [
+                "http://vote.wa.gov/results/20130806/export/20130806_AllState_20130823_1120.csv",
+                "http://vote.wa.gov/results/20130806/export/20130806_AllCounties_20130823_1120.csv",
+                "http://vote.wa.gov/results/20130806/export/20130806_AllStatePrecincts_20130823_1120.csv"
+            ],
+            "end_date": "2013-08-06",
+            "gov": false,
+            "house": false,
+            "id": 1223,
+            "organization": {
+                "city": "Olympia",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 52,
+                "name": "Washington Secretary of State",
+                "resource_uri": "/api/v1/organization/52/",
+                "slug": "washington-secretary-state",
+                "state": "WA",
+                "street": "416 Sid Snyder Ave. S.W.",
+                "url": "http://www.sos.wa.gov/"
+            },
+            "portal_link": "http://vote.wa.gov/results/20130806/Export.html",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "\"Nonpartisan blanket primary\": primary election in which all candidates for elected office run in the same primary regardless of political party.",
+            "primary_type": "blanket",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1223/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2013-08-06",
+            "state": {
+                "name": "Washington",
+                "postal": "WA",
+                "resource_uri": "/api/v1/state/WA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

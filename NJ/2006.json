@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2006_official-senate_tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006_official-house-of-reps_tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006_official-unexpired-term_tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006_official-gen-assembly_tallies.pdf"
+            ],
+            "end_date": "2006-11-07",
+            "gov": false,
+            "house": true,
+            "id": 938,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/938/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2006-official-primary-election-senate-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006-official-primary-election-house-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006-official-primary-election-unexpired-term-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2006-official-primary-election-gen-assem-28thdist-tallies.pdf"
+            ],
+            "end_date": "2006-06-06",
+            "gov": false,
+            "house": true,
+            "id": 939,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/939/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2006-06-06",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Meagher, Tom "
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/elections/2012/2012_General_Canvass.pdf",
+                "http://electionresults.sos.mt.gov/resultsCountyList.aspx?eid=4",
+                "http://sos.mt.gov/elections/2012/2012_General_Leg_Canvass.pdf"
+            ],
+            "end_date": "2012-11-06",
+            "gov": true,
+            "house": true,
+            "id": 756,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/756/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.mt.gov/elections/2012/Primary/2012_PRIMARY_STATEWIDE_CANVASS.PDF",
+                "http://electionresults.sos.mt.gov/resultsCountyList.aspx?eid=3",
+                "http://sos.mt.gov/elections/2012/Primary/2012_PRIMARY_LEGISLATIVE_CANVASS.PDF"
+            ],
+            "end_date": "2012-06-05",
+            "gov": true,
+            "house": true,
+            "id": 757,
+            "organization": {
+                "city": "Helena",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mtdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 43,
+                "name": "Montana Secretary of State",
+                "resource_uri": "/api/v1/organization/43/",
+                "slug": "montana-secretary-state",
+                "state": "MT",
+                "street": "State Capitol Room 260",
+                "url": "http://sos.mt.gov/elections/Results/"
+            },
+            "portal_link": "http://sos.mt.gov/elections/Results/",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "open",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/757/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-06-05",
+            "state": {
+                "name": "Montana",
+                "postal": "MT",
+                "resource_uri": "/api/v1/state/MT/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

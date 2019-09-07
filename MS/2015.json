@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.ms.gov/elections/electionresults/2015Special/certified%20results/US%20House,%20Congressional%20District%201%20Certification.pdf"
+            ],
+            "end_date": "2015-05-12",
+            "gov": false,
+            "house": true,
+            "id": 1583,
+            "organization": {
+                "city": "Jackson",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 53,
+                "name": "Mississippi Secretary of State",
+                "resource_uri": "/api/v1/organization/53/",
+                "slug": "mississippi-secretary-state",
+                "state": "MS",
+                "street": "401 Mississippi Street",
+                "url": "http://www.sos.ms.gov/elections.aspx"
+            },
+            "portal_link": "http://www.sos.ms.gov/Elections-Voting/Pages/2015-Special-Election.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1583/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2015-05-12",
+            "state": {
+                "name": "Mississippi",
+                "postal": "MS",
+                "resource_uri": "/api/v1/state/MS/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

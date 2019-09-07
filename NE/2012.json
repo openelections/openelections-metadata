@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.ne.gov/elec/2012/pdf/2012-general-canvass.pdf",
+            "direct_links": [
+                "http://www.sos.ne.gov/elec/2012/pdf/2012-general-canvass.pdf"
+            ],
+            "end_date": "2012-11-06",
+            "gov": false,
+            "house": true,
+            "id": 1162,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1162/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-11-06",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.ne.gov/elec/2012/pdf/canvass-report-2012-primary.pdf",
+            "direct_links": [
+                "http://www.sos.ne.gov/elec/2012/pdf/canvass-report-2012-primary.pdf"
+            ],
+            "end_date": "2012-05-15",
+            "gov": false,
+            "house": true,
+            "id": 1177,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1177/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2012-05-15",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": ""
+        }
+    ]
+}

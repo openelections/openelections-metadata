@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://www.sos.state.mn.us/Modules/ShowDocument.aspx?documentid=14542"
+            ],
+            "end_date": "2014-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1664,
+            "organization": {
+                "city": "Minneapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mndir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 8,
+                "name": "Minnesota Secretary of State",
+                "resource_uri": "/api/v1/organization/8/",
+                "slug": "minnesota-secretary-state",
+                "state": "MN",
+                "street": "180 State Office Building, 100 Rev. Dr. Martin Luther King Jr. Blvd.",
+                "url": "http://www.sos.state.mn.us/"
+            },
+            "portal_link": "http://www.sos.state.mn.us/index.aspx?page=1804",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1664/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-11-04",
+            "state": {
+                "name": "Minnesota",
+                "postal": "MN",
+                "resource_uri": "/api/v1/state/MN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.mn.us/Select/Download/19"
+            ],
+            "end_date": "2014-08-12",
+            "gov": true,
+            "house": true,
+            "id": 1665,
+            "organization": {
+                "city": "Minneapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mndir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 8,
+                "name": "Minnesota Secretary of State",
+                "resource_uri": "/api/v1/organization/8/",
+                "slug": "minnesota-secretary-state",
+                "state": "MN",
+                "street": "180 State Office Building, 100 Rev. Dr. Martin Luther King Jr. Blvd.",
+                "url": "http://www.sos.state.mn.us/"
+            },
+            "portal_link": "http://www.sos.state.mn.us/index.aspx?page=1804",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1665/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2014-08-12",
+            "state": {
+                "name": "Minnesota",
+                "postal": "MN",
+                "resource_uri": "/api/v1/state/MN/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

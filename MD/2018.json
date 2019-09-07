@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "no",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://elections.maryland.gov/elections/2018/election_data/index.html"
+            ],
+            "end_date": "2018-11-06",
+            "gov": true,
+            "house": true,
+            "id": 1887,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "https://elections.maryland.gov/elections/2018/election_data/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1887/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-11-06",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://elections.maryland.gov/elections/2018/election_data/All_By_Precinct_Democratic_2018_Primary.csv",
+                "https://elections.maryland.gov/elections/2018/election_data/All_By_Precinct_Republican_2018_Primary.csv",
+                "https://elections.maryland.gov/elections/2018/election_data/All_By_Precinct_NonPartisan_2018_Primary.csv"
+            ],
+            "end_date": "2018-06-26",
+            "gov": true,
+            "house": true,
+            "id": 1879,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "https://elections.maryland.gov/elections/2018/election_data/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1879/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-06-26",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "no",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

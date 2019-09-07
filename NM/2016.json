@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.nm.us/",
+                "http://www.sos.state.nm.us/uploads/files/StateCanvass%20(1).PDF"
+            ],
+            "end_date": "2016-11-08",
+            "gov": false,
+            "house": true,
+            "id": 1739,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/2016.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1739/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2016-11-08",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://electionresults.sos.state.nm.us/?eid=78",
+                "http://www.sos.state.nm.us/uploads/files/StateCanvass%20(6).PDF"
+            ],
+            "end_date": "2016-06-07",
+            "gov": false,
+            "house": true,
+            "id": 1740,
+            "organization": {
+                "city": "Santa Fe",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nmdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 20,
+                "name": "New Mexico Bureau of Elections",
+                "resource_uri": "/api/v1/organization/20/",
+                "slug": "new-mexico-bureau-elections",
+                "state": "NM",
+                "street": "325 Don Gaspar",
+                "url": "http://www.sos.state.nm.us/default.aspx"
+            },
+            "portal_link": "http://www.sos.state.nm.us/Elections_Data/2016.aspx",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1740/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2016-06-07",
+            "state": {
+                "name": "New Mexico",
+                "postal": "NM",
+                "resource_uri": "/api/v1/state/NM/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
+}

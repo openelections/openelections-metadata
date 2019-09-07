@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elect.ky.gov/results/2000-2009/Pages/2007primaryandgeneralelectionresults.aspx",
+            "direct_links": [
+                "http://elect.ky.gov/results/2000-2009/Pages/2007primaryandgeneralelectionresults.aspx",
+                "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/General%20Election/STATEwidebyoffice.txt",
+                "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/General%20Election/statewidebyCOUNTY.txt"
+            ],
+            "end_date": "2007-11-06",
+            "gov": true,
+            "house": false,
+            "id": 227,
+            "organization": {
+                "city": "Frankfort",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/kydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 22,
+                "name": "Kentucky State Board of Elections",
+                "resource_uri": "/api/v1/organization/22/",
+                "slug": "kentucky-state-board-elections",
+                "state": "KY",
+                "street": "140 Walnut Street",
+                "url": "http://elect.ky.gov/results/Pages/default.aspx"
+            },
+            "portal_link": "http://elect.ky.gov/results/Pages/default.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/227/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-11-06",
+            "state": {
+                "name": "Kentucky",
+                "postal": "KY",
+                "resource_uri": "/api/v1/state/KY/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Schaver, Mark "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://elect.ky.gov/results/2000-2009/Pages/2007primaryandgeneralelectionresults.aspx",
+            "direct_links": [
+                "http://elect.ky.gov/results/2000-2009/Pages/2007primaryandgeneralelectionresults.aspx",
+                "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/Primary%20Election/STATEwidebyoffice.txt",
+                "http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/Primary%20Election/statewidebyCOUNTY.txt"
+            ],
+            "end_date": "2007-05-22",
+            "gov": true,
+            "house": false,
+            "id": 228,
+            "organization": {
+                "city": "Frankfort",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/kydir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 22,
+                "name": "Kentucky State Board of Elections",
+                "resource_uri": "/api/v1/organization/22/",
+                "slug": "kentucky-state-board-elections",
+                "state": "KY",
+                "street": "140 Walnut Street",
+                "url": "http://elect.ky.gov/results/Pages/default.aspx"
+            },
+            "portal_link": "http://elect.ky.gov/results/Pages/default.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/228/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2007-05-22",
+            "state": {
+                "name": "Kentucky",
+                "postal": "KY",
+                "resource_uri": "/api/v1/state/KY/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Schaver, Mark "
+        }
+    ]
+}

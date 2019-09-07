@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.dcboee.org/election_info/election_results/elec_2006/general_2006_results.asp",
+            "direct_links": [
+                "https://www.dcboee.org/pdf_files/Summary_General_2006.pdf",
+                "https://www.dcboee.org/pdf_files/Ward_General_2006.pdf",
+                "https://www.dcboee.org/pdf_files/Precinct_General_2006.pdf"
+            ],
+            "end_date": "2006-11-07",
+            "gov": false,
+            "house": true,
+            "id": 88,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/88/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2006-11-07",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Admin, OpenElexUser"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.dcboee.org/election_info/election_results/elec_2006/general_2006_results.asp",
+            "direct_links": [
+                "https://www.dcboee.org/election_info/election_results/elec_2006/primary_2006_results.asp",
+                "https://www.dcboee.org/pdf_files/ey2006_primary_summary.pdf"
+            ],
+            "end_date": "2006-09-12",
+            "gov": false,
+            "house": true,
+            "id": 89,
+            "organization": {
+                "city": "",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 1,
+                "name": "DC Board of Ethics and Elections",
+                "resource_uri": "/api/v1/organization/1/",
+                "slug": "dc-board-ethics-and-elections",
+                "state": "DC",
+                "street": "",
+                "url": ""
+            },
+            "portal_link": "http://www.dcboee.org/election_info/election_results/",
+            "precinct_level": true,
+            "precinct_level_status": "yes",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/89/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2006-09-12",
+            "state": {
+                "name": "District of Columbia",
+                "postal": "DC",
+                "resource_uri": "/api/v1/state/DC/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Admin, OpenElexUser"
+        }
+    ]
+}

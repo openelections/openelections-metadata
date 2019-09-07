@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2000-general-elect-president-candidate-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-general-elect-house-candidate-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-general-elect-senate-candidate-tallies.pdf"
+            ],
+            "end_date": "2000-11-07",
+            "gov": false,
+            "house": true,
+            "id": 944,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/944/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2000-11-07",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Jones, Coulter"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-president-candidate-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-house-candidate-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-senate-candidate-results.pdf",
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-rep-delegate-at-large-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-rep-dist-delegates-tallies.pdf",
+                "http://nj.gov/state/elections/election-results/2000-primary-elect-dem-dist-delegate-tallies.pdf"
+            ],
+            "end_date": "2000-06-06",
+            "gov": false,
+            "house": true,
+            "id": 947,
+            "organization": {
+                "city": "Trenton",
+                "fec_page": "",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 16,
+                "name": "New Jersey Division of Elections",
+                "resource_uri": "/api/v1/organization/16/",
+                "slug": "new-jersey-division-elections",
+                "state": "NJ",
+                "street": "",
+                "url": "http://nj.gov/state/elections/index.html"
+            },
+            "portal_link": "http://nj.gov/state/elections/election-information-archive.html",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/947/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2000-06-06",
+            "state": {
+                "name": "New Jersey",
+                "postal": "NJ",
+                "resource_uri": "/api/v1/state/NJ/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Jones, Coulter"
+        }
+    ]
+}

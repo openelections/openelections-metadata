@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://apps.sos.wv.gov/elections/results/download.aspx?year=2008&eid=4",
+            "direct_links": [
+                "http://apps.sos.wv.gov/elections/results/readfile.aspx?path=NC80LVN0YXRlQ291bnR5VG90YWxzLmNzdg=="
+            ],
+            "end_date": "2008-11-04",
+            "gov": true,
+            "house": true,
+            "id": 1076,
+            "organization": {
+                "city": "Charleston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 51,
+                "name": "West Virginia Secretary of State",
+                "resource_uri": "/api/v1/organization/51/",
+                "slug": "west-virginia-secretary-state",
+                "state": "WV",
+                "street": "1900 Kanawha Boulevard East",
+                "url": "http://apps.sos.wv.gov/elections/results/"
+            },
+            "portal_link": "http://apps.sos.wv.gov/elections/results/download.aspx?year=2008&eid=4",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1076/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "West Virginia",
+                "postal": "WV",
+                "resource_uri": "/api/v1/state/WV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Admin, OpenElexUser"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "Unavailable",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://apps.sos.wv.gov/elections/results/download.aspx?year=2008&eid=3",
+            "direct_links": [
+                "http://apps.sos.wv.gov/elections/results/readfile.aspx?path=My8zLVN0YXRlQ291bnR5VG90YWxzLmNzdg=="
+            ],
+            "end_date": "2008-05-13",
+            "gov": true,
+            "house": true,
+            "id": 1077,
+            "organization": {
+                "city": "Charleston",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/wvdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 51,
+                "name": "West Virginia Secretary of State",
+                "resource_uri": "/api/v1/organization/51/",
+                "slug": "west-virginia-secretary-state",
+                "state": "WV",
+                "street": "1900 Kanawha Boulevard East",
+                "url": "http://apps.sos.wv.gov/elections/results/"
+            },
+            "portal_link": "http://apps.sos.wv.gov/elections/results/download.aspx?year=2008&eid=3",
+            "precinct_level": false,
+            "precinct_level_status": "Unavailable",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1077/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-05-13",
+            "state": {
+                "name": "West Virginia",
+                "postal": "WV",
+                "resource_uri": "/api/v1/state/WV/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "Unavailable",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Admin, OpenElexUser"
+        }
+    ]
+}

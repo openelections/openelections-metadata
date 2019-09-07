@@ -1,0 +1,79 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "http://www.sos.ca.gov/elections/statewide-elections/2000-general/",
+            "direct_links": [
+                "http://www.sos.ca.gov/elections/sov/2000-general/pres.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/us-sen.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/us-rep.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/sen.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/assemb.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/pres.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/pol-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/cong-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/sen-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/assem-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/boe-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/us-sen.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/us-senate-pol-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/us-senate-cong-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/us-senate-sen-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/us-senate-assem-dis.pdf",
+                "http://www.sos.ca.gov/elections/sov/2000-general/ssov/us-senate-boe.pdf"
+            ],
+            "end_date": "2000-11-07",
+            "gov": false,
+            "house": true,
+            "id": 69,
+            "organization": {
+                "city": "Sacramento",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/cadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 7,
+                "name": "California Secretary of State",
+                "resource_uri": "/api/v1/organization/7/",
+                "slug": "california-secretary-state",
+                "state": "CA",
+                "street": "1500 11th Street",
+                "url": "http://www.sos.ca.gov/elections/"
+            },
+            "portal_link": "http://www.sos.ca.gov/elections/statewide-elections/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/69/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2000-11-07",
+            "state": {
+                "name": "California",
+                "postal": "CA",
+                "resource_uri": "/api/v1/state/CA/"
+            },
+            "state_leg": true,
+            "state_leg_level": true,
+            "state_leg_level_status": "yes",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Schnadt, Sara"
+        }
+    ]
+}

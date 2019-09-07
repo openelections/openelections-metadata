@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://www.elections.state.md.us/elections/2004/election_data/index.html",
+            "direct_links": [
+                "http://www.elections.state.md.us/elections/2004/election_data/index.html"
+            ],
+            "end_date": "2004-11-02",
+            "gov": false,
+            "house": true,
+            "id": 268,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "http://www.elections.state.md.us/elections/2004/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/268/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-11-02",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": false,
+            "state_leg_level": true,
+            "state_leg_level_status": "baked-raw",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        },
+        {
+            "absentee_and_provisional": true,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "baked-raw",
+            "direct_link": "http://www.elections.state.md.us/elections/2004/election_data/index.html",
+            "direct_links": [
+                "http://www.elections.state.md.us/elections/2004/election_data/index.html"
+            ],
+            "end_date": "2004-03-02",
+            "gov": false,
+            "house": true,
+            "id": 269,
+            "organization": {
+                "city": "Annapolis",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/mddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 5,
+                "name": "Maryland State Board of Elections",
+                "resource_uri": "/api/v1/organization/5/",
+                "slug": "maryland-state-board-elections",
+                "state": "MD",
+                "street": "151 West Street, Suite 200",
+                "url": "http://www.elections.state.md.us/index.html"
+            },
+            "portal_link": "http://www.elections.state.md.us/elections/2004/results/index.html",
+            "precinct_level": true,
+            "precinct_level_status": "baked-raw",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/269/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2004-03-02",
+            "state": {
+                "name": "Maryland",
+                "postal": "MD",
+                "resource_uri": "/api/v1/state/MD/"
+            },
+            "state_leg": false,
+            "state_leg_level": true,
+            "state_leg_level_status": "baked-raw",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Hing, Geoffrey"
+        }
+    ]
+}

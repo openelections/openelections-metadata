@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults/05-0802-2ndCongDist.aspx",
+            "direct_links": [
+                "http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults/05-0802-2ndCongDist.aspx"
+            ],
+            "end_date": "2005-08-02",
+            "gov": false,
+            "house": true,
+            "id": 351,
+            "organization": {
+                "city": "Columbus",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ohdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 2,
+                "name": "Ohio Secretary of State",
+                "resource_uri": "/api/v1/organization/2/",
+                "slug": "ohio-secretary-state",
+                "state": "OH",
+                "street": "180 East Broad Street, 16th Floor",
+                "url": "https://www.sos.state.oh.us/SOS/elections.aspx"
+            },
+            "portal_link": "https://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/351/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2005-08-02",
+            "state": {
+                "name": "Ohio",
+                "postal": "OH",
+                "resource_uri": "/api/v1/state/OH/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "https://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults/05-0614Dem2ndCongDist.aspx",
+            "direct_links": [
+                "https://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults/05-0614Dem2ndCongDist.aspx"
+            ],
+            "end_date": "2005-06-14",
+            "gov": false,
+            "house": true,
+            "id": 352,
+            "organization": {
+                "city": "Columbus",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/ohdir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 2,
+                "name": "Ohio Secretary of State",
+                "resource_uri": "/api/v1/organization/2/",
+                "slug": "ohio-secretary-state",
+                "state": "OH",
+                "street": "180 East Broad Street, 16th Floor",
+                "url": "https://www.sos.state.oh.us/SOS/elections.aspx"
+            },
+            "portal_link": "https://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2005ElectionsResults.aspx",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/352/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2005-06-14",
+            "state": {
+                "name": "Ohio",
+                "postal": "OH",
+                "resource_uri": "/api/v1/state/OH/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": false,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Willis, Derek"
+        }
+    ]
+}

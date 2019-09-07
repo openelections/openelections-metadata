@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections_electioninfo08.shtm",
+            "direct_links": [
+                "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections_electioninfo08.shtm"
+            ],
+            "end_date": "2008-11-04",
+            "gov": false,
+            "house": true,
+            "id": 1002,
+            "organization": {
+                "city": "Pierre",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/sddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 49,
+                "name": "South Dakota Secretary of State",
+                "resource_uri": "/api/v1/organization/49/",
+                "slug": "south-dakota-secretary-state",
+                "state": "SD",
+                "street": "500 E. Capitol Ave., Suite 204",
+                "url": "https://sdsos.gov/default.aspx"
+            },
+            "portal_link": "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections.shtm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/1002/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-11-04",
+            "state": {
+                "name": "South Dakota",
+                "postal": "SD",
+                "resource_uri": "/api/v1/state/SD/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": true,
+            "user_fullname": "Fish, Sandra "
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "",
+            "direct_link": "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections_electioninfo08.shtm",
+            "direct_links": [
+                "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections_electioninfo08.shtm"
+            ],
+            "end_date": "2008-06-03",
+            "gov": false,
+            "house": false,
+            "id": 1003,
+            "organization": {
+                "city": "Pierre",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/sddir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 49,
+                "name": "South Dakota Secretary of State",
+                "resource_uri": "/api/v1/organization/49/",
+                "slug": "south-dakota-secretary-state",
+                "state": "SD",
+                "street": "500 E. Capitol Ave., Suite 204",
+                "url": "https://sdsos.gov/default.aspx"
+            },
+            "portal_link": "http://sdsos.gov/content/viewcontent.aspx?cat=elections&pg=/elections/pastelections.shtm",
+            "precinct_level": true,
+            "precinct_level_status": "",
+            "prez": true,
+            "primary_note": "",
+            "primary_type": "semi-closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/1003/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2008-06-03",
+            "state": {
+                "name": "South Dakota",
+                "postal": "SD",
+                "resource_uri": "/api/v1/state/SD/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "",
+            "state_officers": false,
+            "user_fullname": "Fish, Sandra "
+        }
+    ]
+}

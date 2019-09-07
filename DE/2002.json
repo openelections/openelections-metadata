@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://elections.delaware.gov/archive/elect02/elect02_general/elect02_office.shtml",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect02/elect02_general/elect02_edrd.shtml"
+            ],
+            "end_date": "2002-11-05",
+            "gov": false,
+            "house": true,
+            "id": 672,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/672/",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2002-11-05",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": "Hill, Dan"
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": true,
+            "cong_dist_level_status": "yes",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://elections.delaware.gov/archive/elect02/elect02_primary/elect02_primary_office.shtml",
+            "direct_links": [
+                "http://elections.delaware.gov/archive/elect02/elect02_primary/elect02_primary_edrd.shtml"
+            ],
+            "end_date": "2002-09-07",
+            "gov": false,
+            "house": true,
+            "id": 671,
+            "organization": {
+                "city": "Dover",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/dedir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 30,
+                "name": "Delaware Commissioner of Elections",
+                "resource_uri": "/api/v1/organization/30/",
+                "slug": "delaware-commissioner-elections",
+                "state": "DE",
+                "street": "905 South Governors Avenue",
+                "url": "http://elections.delaware.gov/"
+            },
+            "portal_link": "http://elections.delaware.gov/electionresults/election_archive.shtml",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "/api/v1/election/671/",
+            "result_type": "certified",
+            "senate": false,
+            "special": false,
+            "start_date": "2002-09-07",
+            "state": {
+                "name": "Delaware",
+                "postal": "DE",
+                "resource_uri": "/api/v1/state/DE/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Hill, Dan"
+        }
+    ]
+}

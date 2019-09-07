@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "limit": 1000,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 2
+    },
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "http://sos.ga.gov/elections/election_results/2003_1125/default.htm"
+            ],
+            "end_date": "2003-11-25",
+            "gov": false,
+            "house": false,
+            "id": 1362,
+            "organization": {
+                "city": "Atlanta",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/gadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 35,
+                "name": "Georgia Secretary of State",
+                "resource_uri": "/api/v1/organization/35/",
+                "slug": "georgia-secretary-state",
+                "state": "GA",
+                "street": "214 State Capitol",
+                "url": "http://www.sos.georgia.gov/"
+            },
+            "portal_link": "http://sos.ga.gov/elections/election_results/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general-runoff",
+            "resource_uri": "/api/v1/election/1362/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2003-11-25",
+            "state": {
+                "name": "Georgia",
+                "postal": "GA",
+                "resource_uri": "/api/v1/state/GA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "",
+            "county_level": false,
+            "county_level_status": "",
+            "direct_link": "http://www.sos.ga.gov/elections/election_results/Special/010703_precinct.pdf",
+            "direct_links": [
+                "http://sos.ga.gov/elections/election_results/2003_0107/010703_precinct.pdf"
+            ],
+            "end_date": "2003-01-07",
+            "gov": false,
+            "house": false,
+            "id": 530,
+            "organization": {
+                "city": "Atlanta",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/gadir.htm",
+                "gov_agency": true,
+                "gov_level": "state",
+                "id": 35,
+                "name": "Georgia Secretary of State",
+                "resource_uri": "/api/v1/organization/35/",
+                "slug": "georgia-secretary-state",
+                "state": "GA",
+                "street": "214 State Capitol",
+                "url": "http://www.sos.georgia.gov/"
+            },
+            "portal_link": "http://www.sos.ga.gov/elections/election_results/",
+            "precinct_level": false,
+            "precinct_level_status": "",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "/api/v1/election/530/",
+            "result_type": "certified",
+            "senate": false,
+            "special": true,
+            "start_date": "2003-01-07",
+            "state": {
+                "name": "Georgia",
+                "postal": "GA",
+                "resource_uri": "/api/v1/state/GA/"
+            },
+            "state_leg": true,
+            "state_leg_level": false,
+            "state_leg_level_status": "",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": false,
+            "user_fullname": "Montanez, Luigi "
+        }
+    ]
+}
