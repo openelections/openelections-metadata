@@ -20,7 +20,7 @@
             "end_date": "2018-05-15",
             "gov": true,
             "house": true,
-            "id": undefined,
+            "id": null,
             "organization": {
                 "city": "Lincoln",
                 "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
