@@ -4,7 +4,112 @@
         "next": null,
         "offset": 0,
         "previous": null,
-        "total_count": 0
+        "total_count": 2
     },
-    "objects": []
+    "objects": [
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "unknown",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://sos.nebraska.gov/elec/2018/pdf/2018-canvass-book.pdf"
+            ],
+            "end_date": "2018-05-15",
+            "gov": true,
+            "house": true,
+            "id": undefined,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/index.html",
+            "precinct_level": false,
+            "precinct_level_status": "unknown",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "closed",
+            "race_type": "primary",
+            "resource_uri": "",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-05-15",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "unknown",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        },
+        {
+            "absentee_and_provisional": false,
+            "cong_dist_level": false,
+            "cong_dist_level_status": "unknown",
+            "county_level": true,
+            "county_level_status": "yes",
+            "direct_link": "",
+            "direct_links": [
+                "https://sos.nebraska.gov/elec/2018/pdf/forms/2018-general-election-official-results.pdf"
+            ],
+            "end_date": "2018-11-06",
+            "gov": true,
+            "house": true,
+            "id": undefined,
+            "organization": {
+                "city": "Lincoln",
+                "fec_page": "http://www.fec.gov/pubrec/cfsdd/nedir.htm",
+                "gov_agency": false,
+                "gov_level": "state",
+                "id": 57,
+                "name": "Nebraska State Board of Elections",
+                "resource_uri": "/api/v1/organization/57/",
+                "slug": "nebraska-state-board-elections",
+                "state": "NE",
+                "street": "State Capitol, Suite 2300",
+                "url": "http://www.sos.state.ne.us/"
+            },
+            "portal_link": "http://www.sos.ne.gov/elec/prev_elec/index.html",
+            "precinct_level": false,
+            "precinct_level_status": "unknown",
+            "prez": false,
+            "primary_note": "",
+            "primary_type": "",
+            "race_type": "general",
+            "resource_uri": "",
+            "result_type": "certified",
+            "senate": true,
+            "special": false,
+            "start_date": "2018-11-06",
+            "state": {
+                "name": "Nebraska",
+                "postal": "NE",
+                "resource_uri": "/api/v1/state/NE/"
+            },
+            "state_leg": false,
+            "state_leg_level": false,
+            "state_leg_level_status": "unknown",
+            "state_level": true,
+            "state_level_status": "yes",
+            "state_officers": true,
+            "user_fullname": ""
+        }
+    ]
 }
